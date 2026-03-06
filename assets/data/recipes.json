@@ -1,6 +1,6 @@
 [
     {
-        "id": "Acelgas_salteadas_guarnición",
+        "id": "acelgas_salteadas_guarnicion",
         "name": "Acelgas salteadas (guarnición)",
         "category": "Básicos y acompañamientos",
         "description": "",
@@ -21,7 +21,7 @@
         "image": null
     },
     {
-        "id": "Albóndigas_Carmen",
+        "id": "albondigas_carmen",
         "name": "Albóndigas Carmen",
         "category": "Carnes",
         "description": "",
@@ -51,7 +51,7 @@
         "image": null
     },
     {
-        "id": "Alcachofas_salteadas_guarnición",
+        "id": "alcachofas_salteadas_guarnicion",
         "name": "Alcachofas salteadas (guarnición)",
         "category": "Básicos y acompañamientos",
         "description": "",
@@ -72,7 +72,7 @@
         "image": null
     },
     {
-        "id": "Almejas_a_la_marinera",
+        "id": "almejas_a_la_marinera",
         "name": "Almejas a la marinera",
         "category": "Pescados y mariscos",
         "description": "",
@@ -106,7 +106,7 @@
         "image": null
     },
     {
-        "id": "Asaid",
+        "id": "asaid",
         "name": "Asaid",
         "category": "Desayunos",
         "description": "",
@@ -125,10 +125,10 @@
             "2. Triture hasta obtener una mezcla cremosa y espesa.",
             "3. Sirva en un bol y decore con los toppings: rodajas de fresa y plátano, granola y semillas de lino."
         ],
-        "image": "assets/images/Asaid.jpg"
+        "image": "assets/images/asaid.jpg"
     },
     {
-        "id": "Bacalao_al_horno_con_patata_pimiento_y_cebolla",
+        "id": "bacalao_al_horno_con_patata_pimiento_y_cebolla",
         "name": "Bacalao al horno con patata, pimiento y cebolla",
         "category": "Pescados y mariscos",
         "description": "",
@@ -153,7 +153,7 @@
         "image": null
     },
     {
-        "id": "Barritas_de_pistacho_sin_horno",
+        "id": "barritas_de_pistacho_sin_horno",
         "name": "Barritas de pistacho sin horno",
         "category": "Postres",
         "description": "",
@@ -183,7 +183,7 @@
         "image": null
     },
     {
-        "id": "Berenjenas_rellenas",
+        "id": "berenjenas_rellenas",
         "name": "Berenjenas rellenas",
         "category": "Verduras",
         "description": "",
@@ -207,7 +207,7 @@
         "image": null
     },
     {
-        "id": "Bizcocho_de_naranja",
+        "id": "bizcocho_de_naranja",
         "name": "Bizcocho de naranja",
         "category": "Postres",
         "description": "",
@@ -237,7 +237,7 @@
         "image": null
     },
     {
-        "id": "Bizcocho_de_plátano_y_chocolate",
+        "id": "bizcocho_de_platano_y_chocolate",
         "name": "Bizcocho de plátano y chocolate",
         "category": "Postres",
         "description": "",
@@ -264,7 +264,7 @@
         "image": null
     },
     {
-        "id": "Bizcocho_marmolado_de_boniato_y_plátano",
+        "id": "bizcocho_marmolado_de_boniato_y_platano",
         "name": "Bizcocho marmolado de boniato y plátano",
         "category": "Postres",
         "description": "",
@@ -295,7 +295,7 @@
         "image": null
     },
     {
-        "id": "Boloñesa_con_pasta",
+        "id": "bolonesa_con_pasta",
         "name": "Boloñesa con pasta",
         "category": "Pasta y arroces",
         "description": "",
@@ -324,7 +324,7 @@
         "image": null
     },
     {
-        "id": "Brécol_al_vapor_guarnición",
+        "id": "brecol_al_vapor_guarnicion",
         "name": "Brécol al vapor (guarnición)",
         "category": "Básicos y acompañamientos",
         "description": "",
@@ -344,7 +344,7 @@
         "image": null
     },
     {
-        "id": "Calabacín_en_espaguetis",
+        "id": "calabacin_en_espaguetis",
         "name": "Calabacín en espaguetis",
         "category": "Básicos y acompañamientos",
         "description": "",
@@ -364,7 +364,7 @@
         "image": null
     },
     {
-        "id": "Canastillas_de_Patata_con_Salmón_de_Noruega",
+        "id": "canastillas_de_patata_con_salmon_de_noruega",
         "name": "Canastillas de Patata con Salmón de Noruega",
         "category": "Aperitivos",
         "description": "\nUn aperitivo navideño fácil, saludable y espectacular que utiliza patatas baby como base crujiente.\n",
@@ -393,10 +393,10 @@
             "9. Cortar tiras de salmón ahumado, formar un pequeño lazo y colocar sobre la crema.",
             "10. Decorar con una ramita de eneldo fresco antes de servir."
         ],
-        "image": "assets/images/Canastillas_de_Patata_con_Salmón_de_Noruega.jpg"
+        "image": "assets/images/canastillas_de_patata_con_salmon_de_noruega.jpg"
     },
     {
-        "id": "Canelones_de_carne_y_espinacas",
+        "id": "canelones_de_carne_y_espinacas",
         "name": "Canelones de carne y espinacas",
         "category": "Pasta y arroces",
         "description": "",
@@ -423,7 +423,7 @@
         "image": null
     },
     {
-        "id": "Carrilleras_de_ternera_gallega_al_vino_tinto",
+        "id": "carrilleras_de_ternera_gallega_al_vino_tinto",
         "name": "Carrilleras de ternera gallega al vino tinto",
         "category": "Carnes",
         "description": "",
@@ -471,10 +471,10 @@
             "14. Acompañar con espárragos y decorar con hierbas frescas.",
             "15. Servir caliente."
         ],
-        "image": "assets/images/Carrilleras_de_ternera_gallega_al_vino_tinto.jpg"
+        "image": "assets/images/carrilleras_de_ternera_gallega_al_vino_tinto.jpg"
     },
     {
-        "id": "Chocos_con_arroz",
+        "id": "chocos_con_arroz",
         "name": "Chocos con arroz",
         "category": "Pescados y mariscos",
         "description": "",
@@ -501,7 +501,7 @@
         "image": null
     },
     {
-        "id": "Churrasco_al_horno_o_plancha",
+        "id": "churrasco_al_horno_o_plancha",
         "name": "Churrasco al horno o plancha",
         "category": "Carnes",
         "description": "",
@@ -522,7 +522,7 @@
         "image": null
     },
     {
-        "id": "Cochinillo_asado_estilo_segoviano",
+        "id": "cochinillo_asado_estilo_segoviano",
         "name": "Cochinillo asado estilo segoviano",
         "category": "Carnes",
         "description": "",
@@ -550,10 +550,10 @@
             "11. Compruebe que la piel suena hueca.",
             "12. Sirva el jugo aparte y trinche de forma tradicional."
         ],
-        "image": "assets/images/Cochinillo_asado_estilo_segoviano.jpg"
+        "image": "assets/images/cochinillo_asado_estilo_segoviano.jpg"
     },
     {
-        "id": "Cocido_Carmem",
+        "id": "cocido_carmem",
         "name": "Cocido Carmem",
         "category": "CARNES",
         "description": "\nReceta tradicional de cocido extraída de audio.\n",
@@ -582,7 +582,7 @@
         "image": null
     },
     {
-        "id": "Cocido",
+        "id": "cocido",
         "name": "Cocido",
         "category": "Carnes",
         "description": "",
@@ -606,7 +606,7 @@
         "image": null
     },
     {
-        "id": "Coliflor_al_vapor_guarnición",
+        "id": "coliflor_al_vapor_guarnicion",
         "name": "Coliflor al vapor (guarnición)",
         "category": "Básicos y acompañamientos",
         "description": "",
@@ -626,7 +626,7 @@
         "image": null
     },
     {
-        "id": "Costillas_de_cerdo_al_horno_papillote",
+        "id": "costillas_de_cerdo_al_horno_papillote",
         "name": "Costillas de cerdo al horno (papillote)",
         "category": "Carnes",
         "description": "",
@@ -650,7 +650,7 @@
         "image": null
     },
     {
-        "id": "Crema_Champiñones",
+        "id": "crema_champinones",
         "name": "Crema Champiñones",
         "category": "Sopas y cremas",
         "description": "\nUna crema navideña elegante y cremosa, con el toque especial de los piñones tostados.\n",
@@ -679,7 +679,7 @@
         "image": null
     },
     {
-        "id": "Crema_de_verduras_puerro_calabacín_calabaza_zanahoria",
+        "id": "crema_de_verduras_puerro_calabacin_calabaza_zanahoria",
         "name": "Crema de verduras (puerro, calabacín, calabaza, zanahoria)",
         "category": "Sopas y cremas",
         "description": "",
@@ -707,7 +707,7 @@
         "image": null
     },
     {
-        "id": "Cuscús_con_champiñones_y_judías_verdes",
+        "id": "cuscus_con_champinones_y_judias_verdes",
         "name": "Cuscús con champiñones y judías verdes",
         "category": "Pasta y arroces",
         "description": "",
@@ -737,7 +737,7 @@
         "image": null
     },
     {
-        "id": "Donuts_de_mandarina_sin_harinas",
+        "id": "donuts_de_mandarina_sin_harinas",
         "name": "Donuts de mandarina sin harinas",
         "category": "Postres",
         "description": "",
@@ -760,10 +760,10 @@
             "5. Hornee durante 20 minutos a 200°C (horno previamente calentado).",
             "6. Deje enfriar antes de desmoldar."
         ],
-        "image": "assets/images/Donuts_de_mandarina_sin_harinas.jpg"
+        "image": "assets/images/donuts_de_mandarina_sin_harinas.jpg"
     },
     {
-        "id": "E_Bonito_lechuga_tomate_feta_zanahoria_semillas",
+        "id": "e_bonito_lechuga_tomate_feta_zanahoria_semillas",
         "name": "E. Bonito lechuga tomate feta zanahoria semillas",
         "category": "Ensaladas",
         "description": "",
@@ -789,7 +789,7 @@
         "image": null
     },
     {
-        "id": "E_Caprese",
+        "id": "e_caprese",
         "name": "E. Caprese",
         "category": "Ensaladas",
         "description": "",
@@ -812,7 +812,7 @@
         "image": null
     },
     {
-        "id": "E_Cuscús_judías_champiñones_yema",
+        "id": "e_cuscus_judias_champinones_yema",
         "name": "E. Cuscús judías champiñones yema",
         "category": "Ensaladas",
         "description": "",
@@ -836,7 +836,7 @@
         "image": null
     },
     {
-        "id": "E_Pimientos_tomate_feta_almendras_bonito",
+        "id": "e_pimientos_tomate_feta_almendras_bonito",
         "name": "E. Pimientos tomate feta almendras bonito",
         "category": "Ensaladas",
         "description": "",
@@ -861,7 +861,7 @@
         "image": null
     },
     {
-        "id": "E_Quinoa_brécol_calabacín",
+        "id": "e_quinoa_brecol_calabacin",
         "name": "E. Quinoa brécol calabacín",
         "category": "Ensaladas",
         "description": "",
@@ -884,7 +884,7 @@
         "image": null
     },
     {
-        "id": "E_Salmón_aguacate_feta_tomate_canónigos_nueces",
+        "id": "e_salmon_aguacate_feta_tomate_canonigos_nueces",
         "name": "E. Salmón aguacate feta tomate canónigos nueces",
         "category": "Ensaladas",
         "description": "",
@@ -910,7 +910,7 @@
         "image": null
     },
     {
-        "id": "Empanada_Hojaldre_Esto_Salmón",
+        "id": "empanada_hojaldre_esto_salmon",
         "name": "Empanada Hojaldre Esto Salmón",
         "category": "Aperitivos",
         "description": "",
@@ -930,10 +930,10 @@
             "Pincelar huevo batido",
             "Horno 180° 12 minutos"
         ],
-        "image": "assets/images/Empanada_Hojaldre_Esto_Salmón.jpg"
+        "image": "assets/images/empanada_hojaldre_esto_salmon.jpg"
     },
     {
-        "id": "Ensalada_de_atún_y_mango",
+        "id": "ensalada_de_atun_y_mango",
         "name": "Ensalada de atún y mango",
         "category": "Ensaladas",
         "description": "",
@@ -960,7 +960,7 @@
         "image": null
     },
     {
-        "id": "Ensalada_de_atún",
+        "id": "ensalada_de_atun",
         "name": "Ensalada de atún",
         "category": "Ensaladas",
         "description": "",
@@ -986,7 +986,7 @@
         "image": null
     },
     {
-        "id": "Ensalada_de_pasta",
+        "id": "ensalada_de_pasta",
         "name": "Ensalada de pasta",
         "category": "Ensaladas",
         "description": "",
@@ -1013,7 +1013,7 @@
         "image": null
     },
     {
-        "id": "Ensalada_de_patata",
+        "id": "ensalada_de_patata",
         "name": "Ensalada de patata",
         "category": "Ensaladas",
         "description": "",
@@ -1037,7 +1037,7 @@
         "image": null
     },
     {
-        "id": "Ensalada_de_pimientos_rojos_asados",
+        "id": "ensalada_de_pimientos_rojos_asados",
         "name": "Ensalada de pimientos rojos asados",
         "category": "Ensaladas",
         "description": "",
@@ -1063,7 +1063,7 @@
         "image": null
     },
     {
-        "id": "Ensalada_de_queso_de_cabra",
+        "id": "ensalada_de_queso_de_cabra",
         "name": "Ensalada de queso de cabra",
         "category": "Ensaladas",
         "description": "",
@@ -1090,7 +1090,7 @@
         "image": null
     },
     {
-        "id": "Ensalada_de_salmón_marinado",
+        "id": "ensalada_de_salmon_marinado",
         "name": "Ensalada de salmón marinado",
         "category": "Ensaladas",
         "description": "",
@@ -1116,7 +1116,7 @@
         "image": null
     },
     {
-        "id": "Ensalada_de_tomate_y_rulo_de_cabra",
+        "id": "ensalada_de_tomate_y_rulo_de_cabra",
         "name": "Ensalada de tomate y rulo de cabra",
         "category": "Ensaladas",
         "description": "",
@@ -1138,7 +1138,7 @@
         "image": null
     },
     {
-        "id": "Ensalada_Judias_ANCHOAS_Carmen",
+        "id": "ensalada_judias_anchoas_carmen",
         "name": "Ensalada Judias ANCHOAS (Carmen)",
         "category": "Ensaladas",
         "description": "",
@@ -1167,10 +1167,10 @@
             "6. Montar la ensalada mezclando patata, judías, lechuga, tomate, cebolla, aceitunas.",
             "7. Colocar los huevos cocidos encima y aliñar con la salsa de anchoas."
         ],
-        "image": "assets/images/Ensalada_Judias_ANCHOAS_Carmen.jpg"
+        "image": "assets/images/ensalada_judias_anchoas_carmen.jpg"
     },
     {
-        "id": "Ensaladilla_rusa_la_rusa",
+        "id": "ensaladilla_rusa_la_rusa",
         "name": "Ensaladilla rusa (la rusa)",
         "category": "Verduras",
         "description": "",
@@ -1193,7 +1193,7 @@
         "image": null
     },
     {
-        "id": "ENSALADILLA_PULPO",
+        "id": "ensaladilla_pulpo",
         "name": "ENSALADILLA_PULPO",
         "category": "Aperitivos",
         "description": "",
@@ -1227,7 +1227,7 @@
         "image": null
     },
     {
-        "id": "Espaguetis_de_calabacín_con_langostinos",
+        "id": "espaguetis_de_calabacin_con_langostinos",
         "name": "Espaguetis de calabacín con langostinos",
         "category": "Verduras",
         "description": "",
@@ -1252,7 +1252,7 @@
         "image": null
     },
     {
-        "id": "Espinacas_a_la_crema",
+        "id": "espinacas_a_la_crema",
         "name": "Espinacas a la crema",
         "category": "Verduras",
         "description": "",
@@ -1282,10 +1282,10 @@
             "7. Agregue la leche, la mantequilla, la nuez moscada y la pimienta. Cocine 7 min / 100°C / Vel 2.",
             "8. En una fuente refractaria, vierta la mitad de la crema, coloque los huevos enteros encima y cubra con el resto de crema. Espolvoree con queso rallado y hornee 10 min a 200°C, hasta que los huevos estén cuajados y la superficie dorada."
         ],
-        "image": "assets/images/Espinacas_a_la_crema.jpg"
+        "image": "assets/images/espinacas_a_la_crema.jpg"
     },
     {
-        "id": "Espinacas_y_garbanzos_con_salsa_de_tomate_y_huevos",
+        "id": "espinacas_y_garbanzos_con_salsa_de_tomate_y_huevos",
         "name": "Espinacas y garbanzos con salsa de tomate y huevos",
         "category": "Legumbres",
         "description": "",
@@ -1310,7 +1310,7 @@
         "image": null
     },
     {
-        "id": "Falafel_con_salsa_de_yogur",
+        "id": "falafel_con_salsa_de_yogur",
         "name": "Falafel con salsa de yogur",
         "category": "Legumbres, Platos especiales / internacionales",
         "description": "",
@@ -1342,10 +1342,10 @@
             "6. Para la salsa: en un cuenco mezclar el yogur con el ajo rallado, la menta picada, el zumo de limón, el aceite de oliva, sal y pimienta. Remover bien.",
             "7. Servir los falafel calientes acompañados de la salsa de yogur."
         ],
-        "image": "assets/images/Falafel_con_salsa_de_yogur.jpg"
+        "image": "assets/images/falafel_con_salsa_de_yogur.jpg"
     },
     {
-        "id": "Falafel",
+        "id": "falafel",
         "name": "Falafel",
         "category": "Legumbres",
         "description": "",
@@ -1374,7 +1374,7 @@
         "image": null
     },
     {
-        "id": "Fideos_chinos_versión_completa",
+        "id": "fideos_chinos_version_completa",
         "name": "Fideos chinos (versión completa)",
         "category": "Platos especiales / internacionales",
         "description": "",
@@ -1409,7 +1409,7 @@
         "image": null
     },
     {
-        "id": "Filetes_de_ternera_pollo_solomillo_o_castaña",
+        "id": "filetes_de_ternera_pollo_solomillo_o_castana",
         "name": "Filetes de ternera, pollo, solomillo o castaña",
         "category": "Carnes",
         "description": "",
@@ -1430,7 +1430,7 @@
         "image": null
     },
     {
-        "id": "Flautín_de_calabacín",
+        "id": "flautin_de_calabacin",
         "name": "Flautín de calabacín",
         "category": "Verduras",
         "description": "",
@@ -1458,7 +1458,7 @@
         "image": null
     },
     {
-        "id": "Galletas_de_avena_y_chocolate",
+        "id": "galletas_de_avena_y_chocolate",
         "name": "Galletas de avena y chocolate",
         "category": "Postres",
         "description": "",
@@ -1483,7 +1483,7 @@
         "image": null
     },
     {
-        "id": "Galletas_saludables_de_chocolate_MyebyCosta",
+        "id": "galletas_saludables_de_chocolate_myebycosta",
         "name": "Galletas saludables de chocolate (MyebyCosta)",
         "category": "Postres",
         "description": "",
@@ -1510,7 +1510,7 @@
         "image": null
     },
     {
-        "id": "Gazpacho",
+        "id": "gazpacho",
         "name": "Gazpacho",
         "category": "Sopas y cremas",
         "description": "",
@@ -1538,7 +1538,7 @@
         "image": null
     },
     {
-        "id": "Grelos_salteados_guarnición",
+        "id": "grelos_salteados_guarnicion",
         "name": "Grelos salteados (guarnición)",
         "category": "Básicos y acompañamientos",
         "description": "",
@@ -1559,7 +1559,7 @@
         "image": null
     },
     {
-        "id": "Guacamole_TMX",
+        "id": "guacamole_tmx",
         "name": "Guacamole (TMX)",
         "category": "Salsas",
         "description": "",
@@ -1585,7 +1585,7 @@
         "image": null
     },
     {
-        "id": "Helado_de_pistacho",
+        "id": "helado_de_pistacho",
         "name": "Helado de pistacho",
         "category": "Postres",
         "description": "",
@@ -1608,7 +1608,7 @@
         "image": null
     },
     {
-        "id": "Helado_saludable_de_chocolate_3_ingredientes",
+        "id": "helado_saludable_de_chocolate_3_ingredientes",
         "name": "Helado saludable de chocolate (3 ingredientes)",
         "category": "Postres",
         "description": "",
@@ -1630,7 +1630,7 @@
         "image": null
     },
     {
-        "id": "Huevos_Rellenos_Lucía",
+        "id": "huevos_rellenos_lucia",
         "name": "Huevos Rellenos (Lucía)",
         "category": "Aperitivos",
         "description": "",
@@ -1656,7 +1656,7 @@
         "image": null
     },
     {
-        "id": "Jarrete_con_arroz",
+        "id": "jarrete_con_arroz",
         "name": "Jarrete con arroz",
         "category": "Carnes",
         "description": "",
@@ -1682,7 +1682,7 @@
         "image": null
     },
     {
-        "id": "Judías_verdes_al_vapor_guarnición",
+        "id": "judias_verdes_al_vapor_guarnicion",
         "name": "Judías verdes al vapor (guarnición)",
         "category": "Básicos y acompañamientos",
         "description": "",
@@ -1702,7 +1702,7 @@
         "image": null
     },
     {
-        "id": "Lasaña_o_Musaka_carne_champiñón_espinaca_bechamel",
+        "id": "lasana_o_musaka_carne_champinon_espinaca_bechamel",
         "name": "Lasaña o Musaka (carne, champiñón, espinaca, bechamel)",
         "category": "Pasta y arroces",
         "description": "",
@@ -1728,7 +1728,7 @@
         "image": null
     },
     {
-        "id": "Lazos_de_Hojaldre_con_Pavo_y_Queso_Brie",
+        "id": "lazos_de_hojaldre_con_pavo_y_queso_brie",
         "name": "Lazos de Hojaldre con Pavo y Queso Brie",
         "category": "Otros",
         "description": "\nUn aperitivo estrella para Navidad, extremadamente fácil y rápido de preparar, que solo requiere tres ingredientes básicos.\n",
@@ -1756,7 +1756,7 @@
         "image": null
     },
     {
-        "id": "Lentejas_calabacín_zanahoria_puerro",
+        "id": "lentejas_calabacin_zanahoria_puerro",
         "name": "Lentejas calabacín zanahoria puerro",
         "category": "Legumbres",
         "description": "",
@@ -1786,7 +1786,7 @@
         "image": null
     },
     {
-        "id": "Llana_asada_con_salsa_de_su_jugo",
+        "id": "llana_asada_con_salsa_de_su_jugo",
         "name": "Llana asada con salsa de su jugo",
         "category": "Carnes",
         "description": "",
@@ -1817,7 +1817,7 @@
         "image": null
     },
     {
-        "id": "Macu_Crema_fría_al_pesto",
+        "id": "macu_crema_fria_al_pesto",
         "name": "Macu Crema fría al pesto",
         "category": "MACU",
         "description": "",
@@ -1843,7 +1843,7 @@
         "image": null
     },
     {
-        "id": "Macu_Crujientes_de_verduras_con_queso_Brie",
+        "id": "macu_crujientes_de_verduras_con_queso_brie",
         "name": "Macu Crujientes de verduras con queso Brie",
         "category": "MACU",
         "description": "",
@@ -1872,7 +1872,7 @@
         "image": null
     },
     {
-        "id": "Macu_Guiso_Mar_y_Tierra",
+        "id": "macu_guiso_mar_y_tierra",
         "name": "Macu Guiso \"Mar y Tierra\"",
         "category": "MACU",
         "description": "",
@@ -1896,7 +1896,7 @@
         "image": null
     },
     {
-        "id": "Macu_Pechugas_de_pollo_en_salsa_de_coco_con_curry",
+        "id": "macu_pechugas_de_pollo_en_salsa_de_coco_con_curry",
         "name": "Macu Pechugas de pollo en salsa de coco con curry",
         "category": "MACU",
         "description": "",
@@ -1930,7 +1930,7 @@
         "image": null
     },
     {
-        "id": "Macu_Pepinos_rellenos_de_queso_fresco_y_verduras",
+        "id": "macu_pepinos_rellenos_de_queso_fresco_y_verduras",
         "name": "Macu Pepinos rellenos de queso fresco y verduras",
         "category": "MACU",
         "description": "",
@@ -1958,7 +1958,7 @@
         "image": null
     },
     {
-        "id": "Macu_Pimientos_de_piquillo_rellenos_de_gulas_con_salsa_de_tinta",
+        "id": "macu_pimientos_de_piquillo_rellenos_de_gulas_con_salsa_de_tinta",
         "name": "Macu Pimientos de piquillo rellenos de gulas con salsa de tinta",
         "category": "MACU",
         "description": "",
@@ -1991,7 +1991,7 @@
         "image": null
     },
     {
-        "id": "Macu_Rollo_tricolor",
+        "id": "macu_rollo_tricolor",
         "name": "Macu Rollo tricolor",
         "category": "MACU",
         "description": "",
@@ -2020,7 +2020,7 @@
         "image": null
     },
     {
-        "id": "Macu_Tartar_de_bonito",
+        "id": "macu_tartar_de_bonito",
         "name": "Macu Tartar de bonito",
         "category": "MACU",
         "description": "",
@@ -2048,7 +2048,7 @@
         "image": null
     },
     {
-        "id": "Muffins_cetogénicos_de_arándanos",
+        "id": "muffins_cetogenicos_de_arandanos",
         "name": "Muffins cetogénicos de arándanos",
         "category": "Postres",
         "description": "",
@@ -2075,7 +2075,7 @@
         "image": null
     },
     {
-        "id": "Muslos_de_pollo_en_AirFryer",
+        "id": "muslos_de_pollo_en_airfryer",
         "name": "Muslos de pollo en AirFryer",
         "category": "Carnes",
         "description": "",
@@ -2097,7 +2097,7 @@
         "image": null
     },
     {
-        "id": "Pan_de_nueces_bizcocho_2",
+        "id": "pan_de_nueces_bizcocho_2",
         "name": "Pan de nueces (bizcocho)",
         "category": "Postres",
         "description": "",
@@ -2124,7 +2124,7 @@
         "image": null
     },
     {
-        "id": "Pan_de_nueces_bizcocho",
+        "id": "pan_de_nueces_bizcocho",
         "name": "Pan de nueces (bizcocho)",
         "category": "Postres",
         "description": "",
@@ -2151,7 +2151,7 @@
         "image": null
     },
     {
-        "id": "Pan_de_trigo_sarraceno",
+        "id": "pan_de_trigo_sarraceno",
         "name": "Pan de trigo sarraceno",
         "category": "Panes",
         "description": "",
@@ -2181,7 +2181,7 @@
         "image": null
     },
     {
-        "id": "Pan_Desayuno_arroz_y_espelta",
+        "id": "pan_desayuno_arroz_y_espelta",
         "name": "Pan Desayuno (arroz y espelta)",
         "category": "Panes",
         "description": "",
@@ -2206,7 +2206,7 @@
         "image": null
     },
     {
-        "id": "Pan_keto_de_almendras_y_coco",
+        "id": "pan_keto_de_almendras_y_coco",
         "name": "Pan keto de almendras y coco",
         "category": "Panes",
         "description": "",
@@ -2236,7 +2236,7 @@
         "image": null
     },
     {
-        "id": "Pasta_fresca_con_pesto_langostinos_y_brécol",
+        "id": "pasta_fresca_con_pesto_langostinos_y_brecol",
         "name": "Pasta fresca con pesto, langostinos y brécol",
         "category": "Pasta y arroces",
         "description": "",
@@ -2261,7 +2261,7 @@
         "image": null
     },
     {
-        "id": "Pastel_de_calabacín",
+        "id": "pastel_de_calabacin",
         "name": "Pastel de calabacín",
         "category": "Verduras",
         "description": "",
@@ -2288,7 +2288,7 @@
         "image": null
     },
     {
-        "id": "Pastel_de_puerro_y_huevo",
+        "id": "pastel_de_puerro_y_huevo",
         "name": "Pastel de puerro y huevo",
         "category": "Sopas y cremas",
         "description": "",
@@ -2315,7 +2315,7 @@
         "image": null
     },
     {
-        "id": "Pastel_de_verduras_de_Loli_Domínguez_empanada_pollo",
+        "id": "pastel_de_verduras_de_loli_dominguez_empanada_pollo",
         "name": "Pastel de verduras de Loli Domínguez (empanada pollo)",
         "category": "Platos especiales / internacionales",
         "description": "",
@@ -2353,10 +2353,10 @@
             "10. Cubrir con la otra plancha de masa, sellar los bordes y pintar con huevo batido.",
             "11. Hornear a 180°C durante 45 minutos hasta que la masa esté dorada."
         ],
-        "image": "assets/images/Pastel_de_verduras_de_Loli_Domínguez_empanada_pollo.jpg"
+        "image": "assets/images/pastel_de_verduras_de_loli_dominguez_empanada_pollo.jpg"
     },
     {
-        "id": "Patatas_asadas_Marcos",
+        "id": "patatas_asadas_marcos",
         "name": "Patatas asadas Marcos",
         "category": "Básicos y acompañamientos",
         "description": "",
@@ -2384,7 +2384,7 @@
         "image": null
     },
     {
-        "id": "Pavo_relleno_jamón_york_queso_zanahoria_champiñón",
+        "id": "pavo_relleno_jamon_york_queso_zanahoria_champinon",
         "name": "Pavo relleno (jamón york, queso, zanahoria, champiñón)",
         "category": "Carnes",
         "description": "",
@@ -2411,7 +2411,7 @@
         "image": null
     },
     {
-        "id": "Pescado_al_horno_30_jurelos_dorada_merluza_sargo_palometa_menda_coruxo",
+        "id": "pescado_al_horno_30_jurelos_dorada_merluza_sargo_palometa_menda_coruxo",
         "name": "Pescado al horno 30' (jurelos, dorada, merluza, sargo, palometa, menda, coruxo,…)",
         "category": "Pescados y mariscos",
         "description": "",
@@ -2435,7 +2435,7 @@
         "image": null
     },
     {
-        "id": "Piadina_Rellena_Estilo_Vikika_Air_Fryer",
+        "id": "piadina_rellena_estilo_vikika_air_fryer",
         "name": "Piadina Rellena Estilo Vikika (Air Fryer)",
         "category": "CENAS",
         "description": "",
@@ -2461,10 +2461,10 @@
             "6. Cocine en la Air Fryer a 180 °C durante 18 a 20 minutos.",
             "7. Saque con cuidado, corte y sirva."
         ],
-        "image": "assets/images/Piadina_Rellena_Estilo_Vikika_Air_Fryer.jpg"
+        "image": "assets/images/piadina_rellena_estilo_vikika_air_fryer.jpg"
     },
     {
-        "id": "Pisto_de_puerro_pimientos_calabacín_y_tomate_triturado",
+        "id": "pisto_de_puerro_pimientos_calabacin_y_tomate_triturado",
         "name": "Pisto de puerro, pimientos, calabacín y tomate triturado",
         "category": "Verduras",
         "description": "",
@@ -2489,7 +2489,7 @@
         "image": null
     },
     {
-        "id": "Poke_de_salmón",
+        "id": "poke_de_salmon",
         "name": "Poke de salmón",
         "category": "Platos especiales / internacionales",
         "description": "",
@@ -2518,10 +2518,10 @@
             "4. Sirve en boles el arroz o la quinoa de base. Coloca el salmón marinado, el edamame, el mango, el aguacate y las algas.",
             "5. Termina con cebolla frita y semillas de sésamo."
         ],
-        "image": "assets/images/Poke_de_salmón.jpg"
+        "image": "assets/images/poke_de_salmon.jpg"
     },
     {
-        "id": "Pollo_butter_chicken",
+        "id": "pollo_butter_chicken",
         "name": "Pollo butter chicken",
         "category": "Platos especiales / internacionales",
         "description": "",
@@ -2559,7 +2559,7 @@
         "image": null
     },
     {
-        "id": "Pollo_con_quinoa_pimiento_y_calabacín",
+        "id": "pollo_con_quinoa_pimiento_y_calabacin",
         "name": "Pollo con quinoa, pimiento y calabacín",
         "category": "Carnes",
         "description": "",
@@ -2584,7 +2584,7 @@
         "image": null
     },
     {
-        "id": "Pollo_coreano",
+        "id": "pollo_coreano",
         "name": "Pollo coreano",
         "category": "Platos especiales / internacionales",
         "description": "",
@@ -2608,10 +2608,10 @@
             "4. Calienta una sartén con un poco de aceite y cocina el pollo hasta dorar bien por todos los lados.",
             "5. Sirve acompañado de arroz o verduras salteadas."
         ],
-        "image": "assets/images/Pollo_coreano.jpg"
+        "image": "assets/images/pollo_coreano.jpg"
     },
     {
-        "id": "Pulpo_á_feira_versión_rápida",
+        "id": "pulpo_a_feira_version_rapida",
         "name": "Pulpo á feira (versión rápida)",
         "category": "Pescados y mariscos",
         "description": "",
@@ -2686,7 +2686,7 @@
         "image": null
     },
     {
-        "id": "Puré_Patata_TM31",
+        "id": "pure_patata_tm31",
         "name": "Puré Patata TM31",
         "category": "Básicos y acompañamientos",
         "description": "\nReceta clásica de puré de patata adaptada para evitar que quede demasiado líquido.\n",
@@ -2711,7 +2711,7 @@
         "image": null
     },
     {
-        "id": "Quesada",
+        "id": "quesada",
         "name": "Quesada",
         "category": "Postres",
         "description": "",
@@ -2736,7 +2736,7 @@
         "image": null
     },
     {
-        "id": "Quinoa_con_pollo_halloumi_y_verduras_al_horno",
+        "id": "quinoa_con_pollo_halloumi_y_verduras_al_horno",
         "name": "Quinoa con pollo, halloumi y verduras al horno",
         "category": "Platos especiales / internacionales",
         "description": "",
@@ -2768,7 +2768,7 @@
         "image": null
     },
     {
-        "id": "Rapantes_a_la_plancha",
+        "id": "rapantes_a_la_plancha",
         "name": "Rapantes a la plancha",
         "category": "Pescados y mariscos",
         "description": "",
@@ -2789,7 +2789,7 @@
         "image": null
     },
     {
-        "id": "Rape_a_la_marinera_con_patatas_y_langostinos",
+        "id": "rape_a_la_marinera_con_patatas_y_langostinos",
         "name": "Rape a la marinera con patatas y langostinos",
         "category": "Pescados y mariscos",
         "description": "",
@@ -2822,7 +2822,7 @@
         "image": null
     },
     {
-        "id": "Rape_estilo_langosta",
+        "id": "rape_estilo_langosta",
         "name": "Rape estilo langosta",
         "category": "Pescados y mariscos",
         "description": "",
@@ -2849,7 +2849,7 @@
         "image": null
     },
     {
-        "id": "Rodaballo_al_Horno",
+        "id": "rodaballo_al_horno",
         "name": "Rodaballo al Horno",
         "category": "Pescados",
         "description": "",
@@ -2877,7 +2877,7 @@
         "image": null
     },
     {
-        "id": "Rollo_de_Hojaldre_con_Espinacas_Feta_y_Cottage",
+        "id": "rollo_de_hojaldre_con_espinacas_feta_y_cottage",
         "name": "Rollo de Hojaldre con Espinacas, Feta y Cottage",
         "category": "Aperitivos",
         "description": "\nUn aperitivo crujiente y cremoso ideal para compartir. Se prepara en pocos minutos combinando la frescura de las espinacas con la textura de dos quesos.\n",
@@ -2907,7 +2907,7 @@
         "image": null
     },
     {
-        "id": "Rosca_de_Carmen",
+        "id": "rosca_de_carmen",
         "name": "Rosca de Carmen",
         "category": "Postres",
         "description": "",
@@ -2945,10 +2945,10 @@
             "11. Comprobar con un palillo que salga seco.",
             "12. Al sacar del horno dejar sobre una rejilla o un trapo (no en superficie fría)."
         ],
-        "image": "assets/images/Rosca_de_Carmen.jpg"
+        "image": "assets/images/rosca_de_carmen.jpg"
     },
     {
-        "id": "Salmón_en_AirFryer_con_boniato",
+        "id": "salmon_en_airfryer_con_boniato",
         "name": "Salmón en AirFryer con boniato",
         "category": "Pescados y mariscos",
         "description": "",
@@ -2971,7 +2971,7 @@
         "image": null
     },
     {
-        "id": "Salsa_boloñesa",
+        "id": "salsa_bolonesa",
         "name": "Salsa boloñesa",
         "category": "Salsas",
         "description": "",
@@ -2999,10 +2999,10 @@
             "3. Incorpore la carne y programe 10 min / Varoma / giro izq / vel cuchara. Cuando falten 2 min, vierta el vino por el bocal.",
             "4. Agregue el tomate concentrado, el tomate triturado, el laurel y las especias. Programe 30 min / Varoma / giro izq / vel cuchara."
         ],
-        "image": "assets/images/Salsa_boloñesa.jpg"
+        "image": "assets/images/salsa_bolonesa.jpg"
     },
     {
-        "id": "Secreto_de_cerdo_al_horno_y_patatas_aplastadas",
+        "id": "secreto_de_cerdo_al_horno_y_patatas_aplastadas",
         "name": "Secreto de cerdo al horno y patatas aplastadas",
         "category": "Carnes",
         "description": "",
@@ -3035,7 +3035,7 @@
         "image": null
     },
     {
-        "id": "Sopa_de_pescado_TM31_2",
+        "id": "sopa_de_pescado_tm31_2",
         "name": "Sopa de pescado (TM31)",
         "category": "Sopas y cremas",
         "description": "",
@@ -3071,7 +3071,7 @@
         "image": null
     },
     {
-        "id": "Sopa_de_pescado_TM31",
+        "id": "sopa_de_pescado_tm31",
         "name": "Sopa de pescado (TM31)",
         "category": "Sopas y cremas",
         "description": "",
@@ -3107,7 +3107,7 @@
         "image": null
     },
     {
-        "id": "Tacos_de_lechuga_y_ensaladilla_de_atún",
+        "id": "tacos_de_lechuga_y_ensaladilla_de_atun",
         "name": "Tacos de lechuga y ensaladilla de atún",
         "category": "Ensaladas",
         "description": "",
@@ -3130,10 +3130,10 @@
             "3. Mezclar todo con la mostaza y la mahonesa.",
             "4. Rellenar las hojas de los cogollos de lechuga con la mezcla."
         ],
-        "image": "assets/images/Tacos_de_lechuga_y_ensaladilla_de_atún.jpg"
+        "image": "assets/images/tacos_de_lechuga_y_ensaladilla_de_atun.jpg"
     },
     {
-        "id": "Tarta_de_chocolate_Blancanutri",
+        "id": "tarta_de_chocolate_blancanutri",
         "name": "Tarta de chocolate (Blancanutri)",
         "category": "Postres",
         "description": "",
@@ -3157,7 +3157,7 @@
         "image": null
     },
     {
-        "id": "Tarta_de_Nesquik",
+        "id": "tarta_de_nesquik",
         "name": "Tarta de Nesquik",
         "category": "Postres",
         "description": "",
@@ -3180,10 +3180,10 @@
             "4. Vierte en un molde engrasado.",
             "5. Hornea 30 min a 180°C hasta que al pinchar salga limpio."
         ],
-        "image": "assets/images/Tarta_de_Nesquik.jpg"
+        "image": "assets/images/tarta_de_nesquik.jpg"
     },
     {
-        "id": "Tarta_de_queso_de_la_Viña",
+        "id": "tarta_de_queso_de_la_vina",
         "name": "Tarta de queso de la Viña",
         "category": "Postres",
         "description": "",
@@ -3208,7 +3208,7 @@
         "image": null
     },
     {
-        "id": "Tarta_de_queso_La_Viña_TM31_600_g_queso",
+        "id": "tarta_de_queso_la_vina_tm31_600_g_queso",
         "name": "Tarta de queso La Viña (TM31, 600 g queso)",
         "category": "Postres",
         "description": "",
@@ -3235,7 +3235,7 @@
         "image": null
     },
     {
-        "id": "Tarta_de_queso_y_limón_sin_horno_Thermomix",
+        "id": "tarta_de_queso_y_limon_sin_horno_thermomix",
         "name": "Tarta de queso y limón sin horno (Thermomix)",
         "category": "Postres",
         "description": "",
@@ -3263,7 +3263,7 @@
         "image": null
     },
     {
-        "id": "Tarta_de_zanahoria",
+        "id": "tarta_de_zanahoria",
         "name": "Tarta de zanahoria",
         "category": "Postres",
         "description": "",
@@ -3293,7 +3293,7 @@
         "image": null
     },
     {
-        "id": "Tartar_de_remolacha_con_ajo_blanco_y_pepinillos",
+        "id": "tartar_de_remolacha_con_ajo_blanco_y_pepinillos",
         "name": "Tartar de remolacha con ajo blanco y pepinillos",
         "category": "Aperitivos",
         "description": "",
@@ -3326,10 +3326,10 @@
             "5. Dejar reposar en frío unos 15‑20 minutos para que los sabores se integren.",
             "6. Emplatar: extender una base de ajo blanco en el plato. Sobre esta base colocar el tartar de remolacha (en forma circular o semicírculo). Espolvorear semillas de sésamo, añadir unas gotas de AOVE, decorar con cilantro fresco."
         ],
-        "image": "assets/images/Tartar_de_remolacha_con_ajo_blanco_y_pepinillos.jpg"
+        "image": "assets/images/tartar_de_remolacha_con_ajo_blanco_y_pepinillos.jpg"
     },
     {
-        "id": "Tomate_relleno_de_burrata",
+        "id": "tomate_relleno_de_burrata",
         "name": "Tomate relleno de burrata",
         "category": "Ensaladas",
         "description": "",
@@ -3356,7 +3356,7 @@
         "image": null
     },
     {
-        "id": "Tomates_rellenos_de_ventresca_con_muhammara",
+        "id": "tomates_rellenos_de_ventresca_con_muhammara",
         "name": "Tomates rellenos de ventresca con muhammara",
         "category": "Ensaladas",
         "description": "",
@@ -3403,10 +3403,10 @@
             "5. Rellena los tomates con esta mezcla y colócalos sobre un fondo de muhammara en el plato.",
             "6. Decora con unas hojas de perejil o unas gotas de aceite de oliva virgen extra."
         ],
-        "image": "assets/images/Tomates_rellenos_de_ventresca_con_muhammara.jpg"
+        "image": "assets/images/tomates_rellenos_de_ventresca_con_muhammara.jpg"
     },
     {
-        "id": "Tortitas_de_manzana_y_avena_3_ingredientes",
+        "id": "tortitas_de_manzana_y_avena_3_ingredientes",
         "name": "Tortitas de manzana y avena (3 ingredientes)",
         "category": "Postres",
         "description": "",
@@ -3427,7 +3427,7 @@
         "image": null
     },
     {
-        "id": "Tortitas_esponjosas",
+        "id": "tortitas_esponjosas",
         "name": "Tortitas esponjosas",
         "category": "Postres",
         "description": "",
@@ -3453,7 +3453,7 @@
         "image": null
     },
     {
-        "id": "Vasitos_de_Crema_de_Coliflor_y_Pulpo",
+        "id": "vasitos_de_crema_de_coliflor_y_pulpo",
         "name": "Vasitos de Crema de Coliflor y Pulpo",
         "category": "Aperitivos",
         "description": "\nUn entrante navideño resultón, cremoso y fácil de preparar. La coliflor aporta una textura sedosa que combina perfectamente con el pulpo.\n",
@@ -3481,10 +3481,10 @@
             "7. En una sartén muy caliente con un chorrito de aceite de oliva, marcar las patas de pulpo (ya cocidas) vuelta y vuelta hasta que doren. Cortarlas en rodajas.",
             "8. Para el montaje: Servir la crema en vasitos individuales, colocar encima unos trozos de pulpo, espolvorear un poco más de pimentón y terminar con un chorrito de aceite de oliva para dar brillo."
         ],
-        "image": "assets/images/Vasitos_de_Crema_de_Coliflor_y_Pulpo.jpg"
+        "image": "assets/images/vasitos_de_crema_de_coliflor_y_pulpo.jpg"
     },
     {
-        "id": "Verduras_al_horno_con_atún_y_queso_rallado",
+        "id": "verduras_al_horno_con_atun_y_queso_rallado",
         "name": "Verduras al horno con atún y queso rallado",
         "category": "Pescados y mariscos, Verduras",
         "description": "",
@@ -3510,7 +3510,7 @@
         "image": null
     },
     {
-        "id": "Verduras_al_horno_con_huevos_boniato_calabacín_y_berenjena",
+        "id": "verduras_al_horno_con_huevos_boniato_calabacin_y_berenjena",
         "name": "Verduras al horno con huevos, boniato, calabacín y berenjena",
         "category": "Verduras",
         "description": "",
@@ -3534,7 +3534,7 @@
         "image": null
     },
     {
-        "id": "Vieiras_al_horno",
+        "id": "vieiras_al_horno",
         "name": "Vieiras al horno",
         "category": "Pescados y mariscos",
         "description": "",
@@ -3564,7 +3564,7 @@
         "image": null
     },
     {
-        "id": "Wrap_Cottage",
+        "id": "wrap_cottage",
         "name": "Wrap Cottage",
         "category": "Platos especiales / internacionales",
         "description": "",
@@ -3587,7 +3587,7 @@
         "image": null
     },
     {
-        "id": "Wraps",
+        "id": "wraps",
         "name": "Wraps",
         "category": "Platos especiales / internacionales",
         "description": "",
