@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis Recetas - Paprika Web</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Mis Recetas</h1>
+            <p>Descubre y cocina tus platos favoritos de Paprika</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="search" placeholder="Busca por nombre, ingrediente o categoría...">
+            </div>
+            <div class="categories" id="categories">
+                <!-- Data injected here -->
+            </div>
+        </div>
+
+        <div class="recipe-grid" id="recipe-grid">
+            <!-- Data injected here -->
+        </div>
+    </main>
+
+    <!-- Recipe Modal -->
+    <div id="recipe-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal" onclick="closeModal()">&times;</span>
+            <div id="modal-body">
+                <!-- Data injected here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

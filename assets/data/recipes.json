@@ -1,0 +1,3609 @@
+[
+    {
+        "id": "Acelgas_salteadas_guarnición",
+        "name": "Acelgas salteadas (guarnición)",
+        "category": "Básicos y acompañamientos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 400 g acelgas troceadas",
+            "- 2 dientes de ajo",
+            "- 20 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Lava y corta las acelgas en trozos medianos.",
+            "2. Escáldalas 2–3 min en agua con sal y escurre bien.",
+            "3. Dora los ajos en aceite y añade las acelgas. Saltea 3–4 min."
+        ],
+        "image": null
+    },
+    {
+        "id": "Albóndigas_Carmen",
+        "name": "Albóndigas Carmen",
+        "category": "Carnes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "600g carne picada (mezcla ternera/cerdo)",
+            "1 huevo",
+            "3 cucharadas pan rallado",
+            "1 trozo de puerro (picado muy fino para la masa)",
+            "1 diente ajo",
+            "1 puerro",
+            "1 cebolla",
+            "1 pimiento",
+            "2 zanahorias",
+            "1 vaso vino blanco",
+            "500ml caldo de carne",
+            "Aceite de oliva, sal y pimienta"
+        ],
+        "instructions": [
+            "Preparar la salsa: Sofreír el ajo, el puerro, la cebolla, el pimiento y las zanahorias. Añadir el vino, dejar evaporar el alcohol y cubrir con el caldo.",
+            "Preparar la masa: Mezclar la carne con el huevo, el pan rallado, el trozo de puerro picado, sal, pimienta y ajo al gusto.",
+            "Formar: Hacer las bolas, pasarlas por harina o pan rallado y sellarlas en una sartén con aceite.",
+            "Cocción: Introducir las albóndigas en la salsa y cocinar a fuego lento durante 20 minutos."
+        ],
+        "image": null
+    },
+    {
+        "id": "Alcachofas_salteadas_guarnición",
+        "name": "Alcachofas salteadas (guarnición)",
+        "category": "Básicos y acompañamientos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 8 alcachofas limpias",
+            "- 2 dientes de ajo",
+            "- 20 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Limpia las alcachofas y cuécelas en agua con sal 15–20 min hasta tiernas.",
+            "2. Escúrrelas y córtalas en cuartos.",
+            "3. Dora los ajos en aceite y añade las alcachofas. Saltea 3–4 min."
+        ],
+        "image": null
+    },
+    {
+        "id": "Almejas_a_la_marinera",
+        "name": "Almejas a la marinera",
+        "category": "Pescados y mariscos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 100 g de cebolla",
+            "- 1–2 dientes de ajo",
+            "- 50 g de aceite de oliva virgen extra",
+            "- 1 cucharadita de pan rallado",
+            "- 1 pellizco de pimentón",
+            "- 50 g de vino blanco",
+            "- 250 g de fumet de pescado (o 250 g de agua con 1 cucharadita de sal)",
+            "- 1/2 cubilete de perejil picado (solo las hojas)",
+            "- 750 g de almejas",
+            "- 1000 g de agua",
+            "- 1 cucharadita de sal"
+        ],
+        "instructions": [
+            "1. Ponga en el vaso la cebolla y el ajo. Triture 3 segundos, velocidad 5. Baje los restos hacia las cuchillas.",
+            "2. Añada el aceite y sofría 10 minutos, temperatura Varoma, velocidad 1.",
+            "3. Incorpore el pan rallado y el pimentón. Mezcle 10 segundos, velocidad 2.",
+            "4. Agregue el vino y el fumet. Cocine 10 minutos, temperatura Varoma, velocidad 1.",
+            "5. Añada el perejil y mezcle 10 segundos, velocidad 2. Retire la salsa y resérvela caliente.",
+            "6. Aclare las almejas con agua templada y colóquelas en el cestillo.",
+            "7. Sin lavar el vaso, vierta el agua y la sal y caliente 10 minutos, temperatura Varoma, velocidad 1.",
+            "8. Introduzca el cestillo con las almejas y programe 4 minutos, 100 °C, velocidad 4.",
+            "9. Use la espátula para extraer el cestillo y coloque las almejas en una fuente honda. Bañe con la salsa reservada y sirva."
+        ],
+        "image": null
+    },
+    {
+        "id": "Asaid",
+        "name": "Asaid",
+        "category": "Desayunos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "1",
+        "ingredients": [
+            "- 1 paquete de açaí",
+            "- 1 plátano congelado",
+            "- 1 puñado de frutos rojos congelados",
+            "- 30 ml de leche de avena",
+            "- Toppings: fresas, plátano, granola, semillas de lino"
+        ],
+        "instructions": [
+            "1. Coloque el açaí, el plátano congelado, los frutos rojos y la leche de avena en una batidora potente.",
+            "2. Triture hasta obtener una mezcla cremosa y espesa.",
+            "3. Sirva en un bol y decore con los toppings: rodajas de fresa y plátano, granola y semillas de lino."
+        ],
+        "image": "assets/images/Asaid.jpg"
+    },
+    {
+        "id": "Bacalao_al_horno_con_patata_pimiento_y_cebolla",
+        "name": "Bacalao al horno con patata, pimiento y cebolla",
+        "category": "Pescados y mariscos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 4 lomos de bacalao fresco o desalado",
+            "- 3 patatas medianas",
+            "- 1 pimiento rojo",
+            "- 1 cebolla",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Pela las patatas y córtalas en rodajas finas. Corta la cebolla en tiras y el pimiento en tiras.",
+            "2. Coloca las verduras en una bandeja de horno con aceite y sal.",
+            "3. Hornea 15 min a 180°C.",
+            "4. Coloca encima los lomos de bacalao. Añade un poco más de aceite.",
+            "5. Hornea todo junto 20–25 min a 180°C, hasta que el pescado esté en su punto."
+        ],
+        "image": null
+    },
+    {
+        "id": "Barritas_de_pistacho_sin_horno",
+        "name": "Barritas de pistacho sin horno",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "8 barritas",
+        "ingredients": [
+            "- 250 g copos de avena",
+            "- 2 cucharadas sirope de agave",
+            "- 1/2 cucharadita sal",
+            "- 1/2 cucharadita esencia de vainilla",
+            "- 3 cucharadas pasta de dátil",
+            "- 40 g mantequilla de pistachos",
+            "- 1 puñado de pistachos en trocitos",
+            "- 100 g chocolate (70% o más)",
+            "- 1 pizca sal gruesa",
+            "- Pistachos enteros para decorar"
+        ],
+        "instructions": [
+            "1. Mezcla en un bol los copos de avena con el sirope de agave, la sal, la esencia de vainilla, la pasta de dátil y la mantequilla de pistachos.",
+            "2. Añade un puñado de pistachos troceados y remueve bien hasta obtener una masa compacta.",
+            "3. Coloca la masa en un molde de 20x10 cm forrado con papel vegetal y presiona bien para que quede uniforme.",
+            "4. Funde el chocolate y viértelo por encima de la base. Extiende con una espátula.",
+            "5. Decora con pistachos enteros y una pizca de sal gruesa.",
+            "6. Deja enfriar en la nevera al menos 1 hora antes de cortar en barritas."
+        ],
+        "image": null
+    },
+    {
+        "id": "Berenjenas_rellenas",
+        "name": "Berenjenas rellenas",
+        "category": "Verduras",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 2 berenjenas grandes",
+            "- 300 g carne picada o verduras",
+            "- 100 g queso rallado",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Parte las berenjenas a lo largo y vacíalas con una cuchara, dejando un borde de 1 cm.",
+            "2. Hornea las mitades vacías 15 min a 180°C.",
+            "3. Sofríe la carne o las verduras con un poco de aceite y la pulpa de la berenjena picada.",
+            "4. Rellena las berenjenas con la mezcla y cubre con queso rallado.",
+            "5. Hornea 15–20 min a 180°C hasta que el queso se dore."
+        ],
+        "image": null
+    },
+    {
+        "id": "Bizcocho_de_naranja",
+        "name": "Bizcocho de naranja",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 250 g de azúcar",
+            "- 1 naranja de zumo sin pelar (cortada en cuartos)",
+            "- 3 huevos",
+            "- 100 g de mantequilla a temperatura ambiente (y un poco más para engrasar el molde)",
+            "- 100 g de aceite de girasol",
+            "- 130 g de nata líquida o 1 yogur natural",
+            "- 250 g de harina de repostería (y un poco más para espolvorear el molde)",
+            "- 1 sobre de levadura química",
+            "- 1 pellizco de sal"
+        ],
+        "instructions": [
+            "1. Precaliente el horno a 180°C.",
+            "2. Engrase un molde con mantequilla y espolvoree ligeramente con harina. Reserve.",
+            "3. Ponga en el vaso el azúcar, la naranja y los huevos. Programe 3 min / 37°C / vel 5.",
+            "4. Añada la mantequilla y la nata. Mezcle 5 seg / vel 4.",
+            "5. Incorpore la harina, la levadura y la sal. Programe 15 seg / vel 3. Termine de envolver con la espátula.",
+            "6. Vierta la mezcla en el molde y golpee suavemente sobre la encimera para nivelar la superficie. El molde no debe llenarse más de la mitad.",
+            "7. Hornee durante 30 min aproximadamente, hasta que al pinchar con un palillo salga limpio."
+        ],
+        "image": null
+    },
+    {
+        "id": "Bizcocho_de_plátano_y_chocolate",
+        "name": "Bizcocho de plátano y chocolate",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 4 plátanos (1 para decorar)",
+            "- 2 huevos",
+            "- 45 g copos de avena",
+            "- 50 g almendra molida",
+            "- 30 g cacao puro (4 cdas)",
+            "- 30 ml aceite de oliva virgen extra",
+            "- 7 g levadura en polvo",
+            "- (Opcional) nueces para decorar"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 180°C (arriba y abajo).",
+            "2. En un bol, bate con batidora de mano los plátanos (excepto 1), los huevos, los copos de avena, la almendra molida, el cacao, el aceite y la levadura hasta obtener una masa homogénea.",
+            "3. Vierte la mezcla en un molde. Corta un plátano a lo largo por la mitad y colócalo encima como decoración (puedes añadir nueces).",
+            "4. Hornea durante 25 minutos o hasta que al pinchar con un palillo salga limpio.",
+            "5. Deja enfriar antes de desmoldar."
+        ],
+        "image": null
+    },
+    {
+        "id": "Bizcocho_marmolado_de_boniato_y_plátano",
+        "name": "Bizcocho marmolado de boniato y plátano",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "8",
+        "ingredients": [
+            "- 220 g boniato (ya cocido)",
+            "- 1 plátano grande o 2 pequeños",
+            "- 60 g almendra molida",
+            "- 100 g copos de avena",
+            "- 4 huevos",
+            "- 1 cda aceite de coco",
+            "- Canela de Ceylán (al gusto)",
+            "- 1 cda algarroba (o cacao puro)",
+            "- 1 puntita de cucharita de bicarbonato",
+            "- 1 cda vinagre de manzana",
+            "(opcional: sustituir por 16 g de levadura en polvo)"
+        ],
+        "instructions": [
+            "1. Cuece el boniato en agua hasta que quede blando y se pueda deshacer fácilmente. Pela y reserva.",
+            "2. Precalienta el horno arriba y abajo a 200 °C.",
+            "3. En un bol, mezcla el boniato cocido con todos los ingredientes salvo la algarroba.",
+            "4. Tritura la mezcla hasta obtener una masa homogénea. Vierte la mitad en un molde previamente engrasado.",
+            "5. A la otra mitad de la masa añade la algarroba y mezcla con una cuchara. Incorpórala al molde y, con un palito, haz movimientos envolventes para crear el efecto marmolado.",
+            "6. Hornea durante 20–25 minutos, vigilando la cocción. Deja enfriar antes de desmoldar."
+        ],
+        "image": null
+    },
+    {
+        "id": "Boloñesa_con_pasta",
+        "name": "Boloñesa con pasta",
+        "category": "Pasta y arroces",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 400 g carne picada",
+            "- 1 rama de apio",
+            "- 1 zanahoria",
+            "- 1 puerro",
+            "- 100 ml vino tinto",
+            "- 500 g tomate triturado",
+            "- 300 g pasta",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Pela y corta el apio, la zanahoria y el puerro en trozos pequeños.",
+            "2. Sofríe las verduras en aceite (Thermomix: 8 min, 120°C, vel. 1).",
+            "3. Añade la carne picada y rehoga hasta que pierda el color crudo (Thermomix: 10 min, 120°C, giro inverso, vel. cuchara).",
+            "4. Agrega el vino y deja que se evapore el alcohol 5 min.",
+            "5. Incorpora el tomate triturado y cocina 30 min a fuego lento o en Thermomix (30 min, 100°C, giro inverso, vel. cuchara).",
+            "6. Cuece la pasta en abundante agua con sal, escúrrela y mezcla con la salsa."
+        ],
+        "image": null
+    },
+    {
+        "id": "Brécol_al_vapor_guarnición",
+        "name": "Brécol al vapor (guarnición)",
+        "category": "Básicos y acompañamientos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 400 g brécol en ramilletes",
+            "- 1 cdta sal",
+            "- 20 g aceite de oliva"
+        ],
+        "instructions": [
+            "1. Lava y separa el brécol en ramilletes pequeños.",
+            "2. Cocina al vapor 6–8 min hasta que quede tierno pero verde intenso.",
+            "3. Aliña con aceite y sal al gusto."
+        ],
+        "image": null
+    },
+    {
+        "id": "Calabacín_en_espaguetis",
+        "name": "Calabacín en espaguetis",
+        "category": "Básicos y acompañamientos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 2 calabacines espiralizados",
+            "- 20 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Lava y espiraliza los calabacines.",
+            "2. Calienta una sartén con aceite y saltea 2–3 min, que queden al dente.",
+            "3. Sirve inmediatamente como base de platos o guarnición."
+        ],
+        "image": null
+    },
+    {
+        "id": "Canastillas_de_Patata_con_Salmón_de_Noruega",
+        "name": "Canastillas de Patata con Salmón de Noruega",
+        "category": "Aperitivos",
+        "description": "\nUn aperitivo navideño fácil, saludable y espectacular que utiliza patatas baby como base crujiente.\n",
+        "prep_time": "15 min",
+        "cook_time": "30 min",
+        "servings": "6",
+        "ingredients": [
+            "- Patatas baby (4 por persona aprox.)",
+            "- Salmón ahumado de Noruega",
+            "- 300g de queso crema",
+            "- Eneldo fresco picado",
+            "- Ralladura de una lima",
+            "- Pimienta al gusto",
+            "- Sal",
+            "- Aceite de oliva virgen extra"
+        ],
+        "instructions": [
+            "1. Hervir las patatas baby en agua hasta que estén tiernas.",
+            "2. Engrasar un molde para muffins o canastillas con aceite de oliva.",
+            "3. Colocar las patatas en los huecos y aplastarlas con un vaso pequeño para darles forma de \"cestita\". Ayudarse de una cuchara si es necesario.",
+            "4. Añadir un poco de sal y un chorrito de aceite de oliva por encima.",
+            "5. Hornear a 200 grados durante 30 minutos hasta que estén doradas y crujientes.",
+            "6. Para el relleno: Mezclar en un bol el queso crema, el eneldo picado, la pimienta y la ralladura de lima.",
+            "7. Pasar la mezcla a una manga pastelera para un acabado más profesional.",
+            "8. Una vez frías las patatas, rellenar cada canastilla con la crema de queso.",
+            "9. Cortar tiras de salmón ahumado, formar un pequeño lazo y colocar sobre la crema.",
+            "10. Decorar con una ramita de eneldo fresco antes de servir."
+        ],
+        "image": "assets/images/Canastillas_de_Patata_con_Salmón_de_Noruega.jpg"
+    },
+    {
+        "id": "Canelones_de_carne_y_espinacas",
+        "name": "Canelones de carne y espinacas",
+        "category": "Pasta y arroces",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 12 placas de canelón",
+            "- 300 g carne picada",
+            "- 100 g champiñones",
+            "- 200 g espinacas",
+            "- 400 g bechamel",
+            "- 100 g queso rallado",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Cuece las placas de canelón siguiendo las instrucciones del paquete.",
+            "2. Pica y sofríe los champiñones y las espinacas con aceite. Añade la carne y cocina hasta que quede hecha.",
+            "3. Rellena las placas con la mezcla y enróllalas.",
+            "4. Coloca los canelones en una fuente. Cubre con bechamel y espolvorea queso rallado.",
+            "5. Hornea 20 min a 180°C hasta que el queso se dore."
+        ],
+        "image": null
+    },
+    {
+        "id": "Carrilleras_de_ternera_gallega_al_vino_tinto",
+        "name": "Carrilleras de ternera gallega al vino tinto",
+        "category": "Carnes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "Para las carrilleras:",
+            "- 1 kg carrilleras de ternera",
+            "- 1 cebolla grande",
+            "- 2 zanahorias",
+            "- 5 chalotas",
+            "- 1 tomate grandecito o 200 g salsa de tomate",
+            "- 1 puerro",
+            "- 4 dientes de ajo (con piel)",
+            "- Romero, perejil y tomillo frescos",
+            "- 750 ml vino tinto (de buena calidad)",
+            "- 60 ml coñac",
+            "- 60 g mantequilla",
+            "- Aceite de oliva virgen extra",
+            "- Sal y pimienta negra",
+            "Para la guarnición:",
+            "- 8 espárragos verdes (o más)",
+            "- 1 boniato grande (o 2 medianos)",
+            "- 2 zanahorias",
+            "- 30 g mantequilla",
+            "- Semillas de chía o amapola (opcional)"
+        ],
+        "instructions": [
+            "1. Limpiar las carrilleras de pieles externas si el carnicero no lo ha hecho. Salpimentar.",
+            "2. En la olla a presión, calentar 3-4 cucharadas de aceite y dorar las carrilleras hasta sellarlas. Retirar y reservar.",
+            "3. En el mismo aceite, dorar cebolla y chalotas con una pizca de sal. Añadir el puerro picado.",
+            "4. Incorporar zanahorias y tomate. Rehogar ligeramente.",
+            "5. Añadir coñac y flambear (o dejar evaporar). Verter el vino tinto y reincorporar las carrilleras junto con los ajos enteros y el ramillete de hierbas.",
+            "6. Cerrar la olla y cocer 50 min desde que sube la válvula (en olla tradicional, el doble de tiempo).",
+            "7. Abrir, comprobar la cocción de la carne y reservar las carrilleras. Retirar las hierbas.",
+            "8. Pasar la salsa por pasapurés, devolver a la olla y reducir hasta espesar. Añadir la mantequilla para ligar y dar brillo.",
+            "9. Reincorporar las carrilleras y mantener caliente a fuego mínimo.",
+            "Guarnición:",
+            "10. Cocer los espárragos 5 min en agua con sal, escurrir y saltear en sartén con un poco de aceite. Reservar.",
+            "11. Cocer boniato y zanahorias con sal 20 min, escurrir y chafar con 30 g de mantequilla hasta formar puré rústico. Rectificar sal. Añadir semillas si se desea.",
+            "Montaje:",
+            "12. Formar bolas de puré con sacabolas y disponer en el plato.",
+            "13. Colocar una carrillera al lado, cubrir con salsa.",
+            "14. Acompañar con espárragos y decorar con hierbas frescas.",
+            "15. Servir caliente."
+        ],
+        "image": "assets/images/Carrilleras_de_ternera_gallega_al_vino_tinto.jpg"
+    },
+    {
+        "id": "Chocos_con_arroz",
+        "name": "Chocos con arroz",
+        "category": "Pescados y mariscos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 500 g chocos limpios",
+            "- 250 g arroz",
+            "- 1 pimiento verde",
+            "- 100 ml vino blanco",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal",
+            "- 600 ml agua o caldo de pescado"
+        ],
+        "instructions": [
+            "1. Lava y corta el pimiento en dados pequeños.",
+            "2. Sofríe el pimiento en aceite (Thermomix: 5 min, 120°C, vel. 1).",
+            "3. Añade los chocos troceados y el vino blanco. Cocina 10 min a fuego medio o en TMX 10 min, 100°C, giro inverso, vel. cuchara.",
+            "4. Incorpora el arroz y el agua o caldo.",
+            "5. Cocina hasta que el arroz esté en su punto (Thermomix: 15–18 min, 100°C, giro inverso, vel. cuchara).",
+            "6. Sirve caliente."
+        ],
+        "image": null
+    },
+    {
+        "id": "Churrasco_al_horno_o_plancha",
+        "name": "Churrasco al horno o plancha",
+        "category": "Carnes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4-6",
+        "ingredients": [
+            "- 1,2 kg churrasco de ternera o cerdo",
+            "- Sal",
+            "- Especias al gusto"
+        ],
+        "instructions": [
+            "1. Sazona el churrasco con sal y especias.",
+            "2. Cocina en horno precalentado a 200°C durante 45–60 min, dándole la vuelta a mitad de cocción.",
+            "(O a la plancha caliente 10–15 min por cada lado, según grosor).",
+            "3. Sirve acompañado de patatas o ensalada."
+        ],
+        "image": null
+    },
+    {
+        "id": "Cochinillo_asado_estilo_segoviano",
+        "name": "Cochinillo asado estilo segoviano",
+        "category": "Carnes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6-8",
+        "ingredients": [
+            "- 1 cochinillo entero (4 a 5 kg) en canal",
+            "- sal gorda",
+            "- 150 g de manteca de cerdo",
+            "- 4 ramas de laurel o tablillas de madera",
+            "- Papel de aluminio (para proteger orejas, patas y rabo)"
+        ],
+        "instructions": [
+            "1. Precaliente el horno. Si es de leña, enciéndalo con 1½–2 horas de antelación hasta obtener la bóveda blanca.",
+            "2. Abra el cochinillo en canal a lo largo del espinazo, sin separar las mitades.",
+            "3. Proteja orejas, patas y rabo con papel de aluminio y sazone el interior.",
+            "4. Coloque las ramas de laurel en el fondo de una cazuela de barro.",
+            "5. Vierta el agua sin que toque la piel",
+            "6. Hornee con la piel hacia abajo a 180 °C durante 60–75 minutos.",
+            "7. Dé la vuelta con cuidado.",
+            "8. Pinche la piel en varios puntos.",
+            "9. Unte con manteca.",
+            "10. Hornee a 200–220 °C durante 45–60 minutos, subiendo a 250 °C los últimos 15 minutos.",
+            "11. Compruebe que la piel suena hueca.",
+            "12. Sirva el jugo aparte y trinche de forma tradicional."
+        ],
+        "image": "assets/images/Cochinillo_asado_estilo_segoviano.jpg"
+    },
+    {
+        "id": "Cocido_Carmem",
+        "name": "Cocido Carmem",
+        "category": "CARNES",
+        "description": "\nReceta tradicional de cocido extraída de audio.\n",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "1 kg de carne de ternera",
+            "2 tiras de costilla salada",
+            "1 trozo de panceta",
+            "1 mano de cerdo",
+            "1 oreja de cerdo",
+            "Pollo",
+            "Chorizo",
+            "Garbanzos",
+            "Repollo",
+            "Patatas enteras"
+        ],
+        "instructions": [
+            "Cocer todas las carnes junto con los garbanzos.",
+            "Controlar el tiempo entre 1 hora y 1 hora y media hasta que la carne esté tierna.",
+            "Retirar y reservar la carne fuera de la olla.",
+            "Añadir el repollo y las patatas enteras al caldo de la cocción.",
+            "Cocer durante 30 minutos aproximadamente."
+        ],
+        "image": null
+    },
+    {
+        "id": "Cocido",
+        "name": "Cocido",
+        "category": "Carnes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6-8",
+        "ingredients": [
+            "- 300 g garbanzos",
+            "- Carnes y compango (chorizo, morcillo, pollo…)",
+            "- Verduras (repollo, zanahoria, patata)",
+            "- Agua",
+            "- Sal"
+        ],
+        "instructions": [
+            "1. Pon los garbanzos en remojo la noche anterior.",
+            "2. Cuece primero las carnes en abundante agua con sal hasta que estén tiernas.",
+            "3. Añade los garbanzos y cuece 1–2 h más según variedad.",
+            "4. Incorpora las verduras en los últimos 30–40 min.",
+            "5. Sirve por fases: primero la sopa, después garbanzos con verduras y finalmente las carnes."
+        ],
+        "image": null
+    },
+    {
+        "id": "Coliflor_al_vapor_guarnición",
+        "name": "Coliflor al vapor (guarnición)",
+        "category": "Básicos y acompañamientos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 400 g coliflor en ramilletes",
+            "- 1 cdta sal",
+            "- 20 g aceite de oliva"
+        ],
+        "instructions": [
+            "1. Lava y corta la coliflor en ramilletes.",
+            "2. Cocina al vapor 10–12 min hasta que quede tierna.",
+            "3. Sirve aliñada con aceite y sal."
+        ],
+        "image": null
+    },
+    {
+        "id": "Costillas_de_cerdo_al_horno_papillote",
+        "name": "Costillas de cerdo al horno (papillote)",
+        "category": "Carnes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 1 kg costillas de cerdo",
+            "- Sal",
+            "- Pimienta",
+            "- Especias al gusto",
+            "- Papel de aluminio"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 180°C.",
+            "2. Sazona las costillas con sal, pimienta y especias.",
+            "3. Envuelve bien las costillas en papel de aluminio para que conserven los jugos.",
+            "4. Hornea 90 min a 180°C.",
+            "5. Si quieres un dorado extra, abre el papel los últimos 10 min."
+        ],
+        "image": null
+    },
+    {
+        "id": "Crema_Champiñones",
+        "name": "Crema Champiñones",
+        "category": "Sopas y cremas",
+        "description": "\nUna crema navideña elegante y cremosa, con el toque especial de los piñones tostados.\n",
+        "prep_time": "10 min",
+        "cook_time": "35 min",
+        "servings": "4",
+        "ingredients": [
+            "- 500 g de champiñones (Portobello) limpios y en cuartos",
+            "- 1 puerro (solo la parte blanca) en rodajas",
+            "- 1 chalota",
+            "- 1 o 2 dientes de ajo",
+            "- 40 g de aceite de oliva virgen extra",
+            "- 40 g de piñones (más extra para decorar)",
+            "- 500-600 g de caldo de verduras (sin gluten)",
+            "- 100 ml de nata para cocinar (sin gluten)",
+            "- Sal y pimienta al gusto"
+        ],
+        "instructions": [
+            "1. Troceado inicial: Poner el puerro, la chalota y el ajo en el vaso. Programar 4 seg / Vel 4. Bajar los restos con la espátula.",
+            "2. Sofrito: Añadir el aceite y los 40g de piñones. Programar 8 min / Varoma / Vel 1 (sin cubilete para favorecer el dorado).",
+            "3. Cocinar champiñones: Añadir los champiñones, sal y pimienta. Programar 5 min / Varoma / Giro a la izquierda / Vel Cuchara.",
+            "4. Cocción: Verter el caldo. Programar 20 min / 100°C / Giro a la izquierda / Vel Cuchara.",
+            "5. Textura final: Añadir la nata. Esperar a que la temperatura baje a 80°C y triturar 1 min / Vel progresiva 5-10.",
+            "6. Presentación: Servir con piñones tostados extra, unas láminas de champiñón y un chorrito de nata por encima."
+        ],
+        "image": null
+    },
+    {
+        "id": "Crema_de_verduras_puerro_calabacín_calabaza_zanahoria",
+        "name": "Crema de verduras (puerro, calabacín, calabaza, zanahoria)",
+        "category": "Sopas y cremas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 1 puerro",
+            "- 1 calabacín",
+            "- 200 g calabaza",
+            "- 2 zanahorias",
+            "- 30 g aceite de oliva",
+            "- 800 ml agua",
+            "- 1 cdta sal",
+            "- 1 pizca nuez moscada"
+        ],
+        "instructions": [
+            "1. Lava y corta las verduras en trozos medianos.",
+            "2. Sofríe el puerro en aceite 5 min (Thermomix: 5 min, 120°C, vel. 1).",
+            "3. Añade el resto de verduras y el agua.",
+            "4. Cocina 30 min (Thermomix: 30 min, 100°C, vel. 1).",
+            "5. Tritura hasta que quede una crema fina (Thermomix: 1 min, vel. 8).",
+            "6. Añade la nuez moscada y mezcla."
+        ],
+        "image": null
+    },
+    {
+        "id": "Cuscús_con_champiñones_y_judías_verdes",
+        "name": "Cuscús con champiñones y judías verdes",
+        "category": "Pasta y arroces",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 100 g cuscús",
+            "- 100 ml agua o caldo caliente",
+            "- 200 g judías verdes",
+            "- 100 g champiñones",
+            "- 2 dientes de ajo",
+            "- 1 cdta pimentón",
+            "- 1 cdta salsa de soja",
+            "- 1 yema de huevo (opcional)",
+            "- 1 cda levadura nutricional",
+            "- 20 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Coloca el cuscús en un bol y cúbrelo con agua o caldo caliente. Tapa y deja reposar 5 min.",
+            "2. Lava y corta los champiñones en láminas y las judías en trozos.",
+            "3. Sofríe el ajo en aceite, añade los champiñones y las judías. Cocina 5–6 min.",
+            "4. Mezcla con el cuscús, la soja, el pimentón y la levadura nutricional.",
+            "5. Si deseas, añade la yema de huevo justo antes de servir para darle cremosidad."
+        ],
+        "image": null
+    },
+    {
+        "id": "Donuts_de_mandarina_sin_harinas",
+        "name": "Donuts de mandarina sin harinas",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "8",
+        "ingredients": [
+            "- 2 huevos",
+            "- 65 g de almendra molida (u otro fruto seco o semilla)",
+            "- 2 plátanos",
+            "- 1 mandarina pequeña o 2 gajos de naranja 🍊",
+            "- 1 cdta de levadura en polvo y una pizca de bicarbonato (para que suban más)",
+            "- Canela Ceylán"
+        ],
+        "instructions": [
+            "1. Precaliente el horno a 200°C con calor arriba y abajo.",
+            "2. En un bol, bata los huevos y añada los plátanos triturados, la almendra molida, la mandarina (o naranja), la levadura, el bicarbonato y la canela.",
+            "3. Mezcle hasta obtener una masa homogénea.",
+            "4. Vierta la mezcla en moldes de silicona para donuts o magdalenas.",
+            "5. Hornee durante 20 minutos a 200°C (horno previamente calentado).",
+            "6. Deje enfriar antes de desmoldar."
+        ],
+        "image": "assets/images/Donuts_de_mandarina_sin_harinas.jpg"
+    },
+    {
+        "id": "E_Bonito_lechuga_tomate_feta_zanahoria_semillas",
+        "name": "E. Bonito lechuga tomate feta zanahoria semillas",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 1 lechuga",
+            "- 2 tomates",
+            "- 150 g bonito en conserva",
+            "- 100 g queso feta",
+            "- 1 zanahoria rallada",
+            "- 2 cdas semillas variadas",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Lava y trocea la lechuga y los tomates.",
+            "2. Coloca en una ensaladera junto con el bonito escurrido, la zanahoria y el queso feta desmenuzado.",
+            "3. Espolvorea con semillas.",
+            "4. Aliña con aceite y sal."
+        ],
+        "image": null
+    },
+    {
+        "id": "E_Caprese",
+        "name": "E. Caprese",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 3 tomates maduros",
+            "- 200 g mozzarella fresca",
+            "- Hojas de albahaca fresca",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Lava y corta los tomates en rodajas.",
+            "2. Corta la mozzarella en rodajas del mismo grosor.",
+            "3. Alterna en un plato capas de tomate y mozzarella.",
+            "4. Coloca hojas de albahaca encima y aliña con aceite y sal."
+        ],
+        "image": null
+    },
+    {
+        "id": "E_Cuscús_judías_champiñones_yema",
+        "name": "E. Cuscús judías champiñones yema",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 200 g cuscús preparado",
+            "- 200 g judías verdes cocidas",
+            "- 100 g champiñones salteados",
+            "- 2 yemas de huevo (opcional)",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal",
+            "- 1 cdta pimentón o un chorrito de soja"
+        ],
+        "instructions": [
+            "1. Coloca en un bol el cuscús cocido, las judías verdes troceadas y los champiñones.",
+            "2. Añade las yemas de huevo si lo deseas.",
+            "3. Aliña con aceite, sal y un poco de pimentón o salsa de soja."
+        ],
+        "image": null
+    },
+    {
+        "id": "E_Pimientos_tomate_feta_almendras_bonito",
+        "name": "E. Pimientos tomate feta almendras bonito",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 2 pimientos asados o frescos",
+            "- 2 tomates",
+            "- 100 g queso feta",
+            "- 40 g almendras troceadas",
+            "- 150 g bonito en conserva",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Lava y corta los tomates en dados.",
+            "2. Trocea los pimientos y colócalos en una fuente con el tomate.",
+            "3. Añade el bonito escurrido, el feta desmenuzado y las almendras.",
+            "4. Aliña con aceite y sal."
+        ],
+        "image": null
+    },
+    {
+        "id": "E_Quinoa_brécol_calabacín",
+        "name": "E. Quinoa brécol calabacín",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 200 g quinoa cocida",
+            "- 200 g brécol al vapor",
+            "- 1 calabacín",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Cuece la quinoa en agua con sal (Thermomix: 20 min, 100°C, vel. 1).",
+            "2. Cocina el brécol al vapor 6–8 min.",
+            "3. Lava y corta el calabacín en dados pequeños o en láminas.",
+            "4. Mezcla en un bol la quinoa, el brécol y el calabacín. Aliña con aceite y sal."
+        ],
+        "image": null
+    },
+    {
+        "id": "E_Salmón_aguacate_feta_tomate_canónigos_nueces",
+        "name": "E. Salmón aguacate feta tomate canónigos nueces",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 200 g salmón marinado o ahumado",
+            "- 1 aguacate",
+            "- 100 g queso feta",
+            "- 2 tomates",
+            "- 100 g canónigos",
+            "- 30 g nueces",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Lava y corta el tomate en dados. Pela y trocea el aguacate.",
+            "2. Coloca los canónigos en una fuente. Añade el salmón en tiras, el aguacate, el tomate y el queso feta desmenuzado.",
+            "3. Espolvorea las nueces por encima.",
+            "4. Aliña con aceite y sal justo antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Empanada_Hojaldre_Esto_Salmón",
+        "name": "Empanada Hojaldre Esto Salmón",
+        "category": "Aperitivos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "",
+        "ingredients": [
+            "Dos hojaldres cuadrados",
+            "Pesto 90gr",
+            "2 bandejas de salmón",
+            "1 huevo"
+        ],
+        "instructions": [
+            "Untar Pesto en hojaldre",
+            "Colocar salmón extendido",
+            "Tapa de hojaldre",
+            "Pincelar huevo batido",
+            "Horno 180° 12 minutos"
+        ],
+        "image": "assets/images/Empanada_Hojaldre_Esto_Salmón.jpg"
+    },
+    {
+        "id": "Ensalada_de_atún_y_mango",
+        "name": "Ensalada de atún y mango",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "1",
+        "ingredients": [
+            "- 1 lata de atún al natural",
+            "- 1/2 unidad de mango",
+            "- 60 g queso feta",
+            "- Tomate (cantidad al gusto)",
+            "- Canónigos (cantidad al gusto)",
+            "- Cebolla (cantidad al gusto)",
+            "- 5 g aceite de oliva virgen extra (AOVE)"
+        ],
+        "instructions": [
+            "1. Escurre el atún y ponlo en un bol.",
+            "2. Pela el mango y corta en dados pequeños.",
+            "3. Lava y corta el tomate en trozos.",
+            "4. Pela y pica la cebolla finamente.",
+            "5. Añade al bol los canónigos, el tomate, la cebolla, el atún, el mango y el queso feta desmenuzado.",
+            "6. Aliña con el aceite de oliva virgen extra antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Ensalada_de_atún",
+        "name": "Ensalada de atún",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "1",
+        "ingredients": [
+            "- 1 lata de atún al natural (60 g)",
+            "- 1/2 aguacate",
+            "- 60 g mozzarella light",
+            "- Tomate (cantidad al gusto)",
+            "- Canónigos (cantidad al gusto)",
+            "- Pepino (cantidad al gusto)",
+            "- 5 g aceite de oliva virgen extra (AOVE)"
+        ],
+        "instructions": [
+            "1. Escurre la lata de atún y ponla en un bol.",
+            "2. Corta el aguacate en dados pequeños.",
+            "3. Lava y corta el tomate y el pepino en trozos.",
+            "4. Añade al bol los canónigos, el aguacate, el tomate, el pepino, el atún y la mozzarella en dados.",
+            "5. Aliña con aceite de oliva virgen extra antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Ensalada_de_pasta",
+        "name": "Ensalada de pasta",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "1",
+        "ingredients": [
+            "- 50 g pasta integral",
+            "- 1 lata de atún al natural",
+            "- 60 g aguacate",
+            "- 60 g mozzarella",
+            "- Verduras al gusto",
+            "- 5 g aceite de oliva virgen extra (AOVE)"
+        ],
+        "instructions": [
+            "1. Cuece la pasta integral siguiendo las instrucciones del envase. Escurre y deja enfriar.",
+            "2. Escurre el atún y colócalo en un bol.",
+            "3. Pela el aguacate y corta en dados pequeños.",
+            "4. Corta la mozzarella en trozos o dados.",
+            "5. Lava y trocea las verduras al gusto (tomate, pepino, zanahoria, etc.).",
+            "6. Mezcla la pasta con el atún, el aguacate, la mozzarella y las verduras.",
+            "7. Aliña con aceite de oliva virgen extra antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Ensalada_de_patata",
+        "name": "Ensalada de patata",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "1",
+        "ingredients": [
+            "- 200 g patata",
+            "- 1 huevo cocido",
+            "- 50 g ventresca en conserva",
+            "- 10 aceitunas negras",
+            "- 1 cucharada pequeña (cp) de aceite de oliva virgen extra (AOVE)"
+        ],
+        "instructions": [
+            "1. Cuece las patatas enteras con piel en agua con sal hasta que estén tiernas. Deja enfriar, pela y corta en dados.",
+            "2. Cuece el huevo durante 10 minutos, enfría en agua, pela y corta en trozos.",
+            "3. Escurre la ventresca en conserva.",
+            "4. En un bol mezcla la patata, el huevo, la ventresca y las aceitunas.",
+            "5. Aliña con aceite de oliva virgen extra antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Ensalada_de_pimientos_rojos_asados",
+        "name": "Ensalada de pimientos rojos asados",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "2",
+        "ingredients": [
+            "- Pimientos rojos asados en tiras",
+            "- 20 g almendras o nueces",
+            "- 60 g queso fresco",
+            "- Tomates cherry (cantidad al gusto)",
+            "- 1 lata de atún al natural (60 g)",
+            "- 5 g aceite de oliva virgen extra (AOVE)"
+        ],
+        "instructions": [
+            "1. Asa los pimientos si no están ya preparados. Pela, limpia y corta en tiras.",
+            "2. Lava y corta los tomates cherry por la mitad.",
+            "3. Escurre la lata de atún.",
+            "4. En un bol mezcla los pimientos, el atún, los tomates cherry y el queso fresco en dados.",
+            "5. Añade las almendras o nueces.",
+            "6. Aliña con el aceite de oliva virgen extra antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Ensalada_de_queso_de_cabra",
+        "name": "Ensalada de queso de cabra",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "1",
+        "ingredients": [
+            "- 60 g salmón ahumado",
+            "- 40 g queso de cabra",
+            "- 5 nueces",
+            "- Tomate (cantidad al gusto)",
+            "- Canónigos (cantidad al gusto)",
+            "- Cebolla (cantidad al gusto)",
+            "- 5 g aceite de oliva virgen extra (AOVE)"
+        ],
+        "instructions": [
+            "1. Corta el salmón ahumado en tiras.",
+            "2. Desmenuza el queso de cabra en trozos pequeños.",
+            "3. Parte las nueces en mitades o trozos.",
+            "4. Lava y corta el tomate y la cebolla.",
+            "5. En un bol mezcla los canónigos, el tomate, la cebolla, el salmón, el queso de cabra y las nueces.",
+            "6. Aliña con aceite de oliva virgen extra antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Ensalada_de_salmón_marinado",
+        "name": "Ensalada de salmón marinado",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "1",
+        "ingredients": [
+            "- 60 g salmón marinado",
+            "- 1/2 aguacate",
+            "- 50 g queso feta",
+            "- Tomate (cantidad al gusto)",
+            "- Canónigos (cantidad al gusto)",
+            "- Pepino (cantidad al gusto)",
+            "- 5 g aceite de oliva virgen extra (AOVE)"
+        ],
+        "instructions": [
+            "1. Corta el salmón marinado en tiras o dados.",
+            "2. Pela el aguacate y córtalo en dados pequeños.",
+            "3. Lava y corta el tomate y el pepino.",
+            "4. En un bol mezcla los canónigos con el tomate, el pepino, el aguacate, el salmón y el queso feta desmenuzado.",
+            "5. Aliña con aceite de oliva virgen extra antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Ensalada_de_tomate_y_rulo_de_cabra",
+        "name": "Ensalada de tomate y rulo de cabra",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 4 tomates maduros",
+            "- 150 g rulo de cabra",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Lava y corta los tomates en rodajas o dados.",
+            "2. Corta el rulo de cabra en rodajas finas.",
+            "3. Coloca en una fuente alternando tomate y queso.",
+            "4. Aliña con aceite y sal antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Ensalada_Judias_ANCHOAS_Carmen",
+        "name": "Ensalada Judias ANCHOAS (Carmen)",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 3 patatas medianas cocidas",
+            "- 200 g judías verdes cocidas",
+            "- 1 lechuga",
+            "- 2 tomates",
+            "- 1 cebolla",
+            "- 100 g aceitunas verdes o negras",
+            "- 2 huevos cocidos",
+            "- 90g anchoa en aceite",
+            "- 50g mayonesa",
+            "- 50g aceite de oliva",
+            "- 30g vinagre"
+        ],
+        "instructions": [
+            "1. Cocer las patatas con piel en agua con sal hasta que estén tiernas. Dejar enfriar, pelar y trocear.",
+            "2. Cocer las judías verdes hasta que estén al dente. Escurrir y reservar.",
+            "3. Lavar y trocear la lechuga, los tomates y la cebolla.",
+            "4. Cortar los huevos cocidos en cuartos.",
+            "5. Preparar la salsa triturando las anchoas con la mayonesa, el aceite y el vinagre hasta obtener una crema homogénea.",
+            "6. Montar la ensalada mezclando patata, judías, lechuga, tomate, cebolla, aceitunas.",
+            "7. Colocar los huevos cocidos encima y aliñar con la salsa de anchoas."
+        ],
+        "image": "assets/images/Ensalada_Judias_ANCHOAS_Carmen.jpg"
+    },
+    {
+        "id": "Ensaladilla_rusa_la_rusa",
+        "name": "Ensaladilla rusa (la rusa)",
+        "category": "Verduras",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 3 patatas cocidas",
+            "- 2 zanahorias cocidas",
+            "- 100 g guisantes",
+            "- 150 g mayonesa",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Cuece las patatas, las zanahorias y los guisantes hasta que estén tiernos.",
+            "2. Pela y corta las patatas y zanahorias en dados pequeños.",
+            "3. Mezcla con los guisantes y la mayonesa en un bol grande.",
+            "4. Rectifica de sal y guarda en la nevera al menos 1 h antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "ENSALADILLA_PULPO",
+        "name": "ENSALADILLA_PULPO",
+        "category": "Aperitivos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 1 pata de pulpo ya cocida",
+            "- 3 patatas medianas",
+            "- 2 huevos",
+            "- Aceite de oliva",
+            "- Sal",
+            "- Vinagre",
+            "Para la mayonesa de pimentón:",
+            "- 1 huevo",
+            "- 1 cucharadita de pimentón dulce (sin gluten)",
+            "- Sal",
+            "- Chorrito de limón exprimido",
+            "- Aceite de oliva suave o de girasol"
+        ],
+        "instructions": [
+            "1. Cocer las patatas en agua con sal. Una vez listas, pelarlas y chascarlas.",
+            "2. Cocer 2 huevos. Un truco para pelarlos fácilmente es pasarlos por agua con hielo inmediatamente después de la cocción. Cortarlos en trozos pequeños.",
+            "3. En un bol, mezclar las patatas con los huevos troceados.",
+            "4. Preparar la mayonesa de pimentón: en un vaso batidor poner un huevo, aceite, sal, limón y el pimentón. Batir sin mover la batidora desde el fondo e ir subiendo conforme emulsione.",
+            "5. Marcar la pata de pulpo en una sartén con un poco de aceite para dorarla. Cortarla en trozos (reservar algunas rodajas para decorar).",
+            "6. Mezclar en el bol las patatas, el huevo y el pulpo troceado con la mayonesa de pimentón.",
+            "7. Probar y corregir de sal y vinagre al gusto.",
+            "8. Servir decorando con las rodajas de pulpo reservadas y un poco más de pimentón si se desea."
+        ],
+        "image": null
+    },
+    {
+        "id": "Espaguetis_de_calabacín_con_langostinos",
+        "name": "Espaguetis de calabacín con langostinos",
+        "category": "Verduras",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 2 calabacines grandes",
+            "- 200 g langostinos pelados",
+            "- 2 dientes de ajo",
+            "- 1 guindilla (opcional)",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Espiraliza los calabacines en forma de espaguetis.",
+            "2. Dora los ajos y la guindilla en una sartén con aceite.",
+            "3. Añade los langostinos y cocina hasta que cambien de color.",
+            "4. Incorpora los espaguetis de calabacín y saltea 2–3 min. No más, para que no suelten agua.",
+            "5. Sirve inmediatamente."
+        ],
+        "image": null
+    },
+    {
+        "id": "Espinacas_a_la_crema",
+        "name": "Espinacas a la crema",
+        "category": "Verduras",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 500 g espinacas congeladas (previamente descongeladas)",
+            "- 1–2 dientes de ajo",
+            "- 50 g aceite de oliva virgen extra",
+            "- 1 cdta sal",
+            "- 50 g harina",
+            "- 500 g leche entera",
+            "- 30 g mantequilla",
+            "- 1 pellizco nuez moscada",
+            "- 1 pellizco pimienta",
+            "- 6 huevos",
+            "- 50 g queso rallado"
+        ],
+        "instructions": [
+            "1. Descongele las espinacas, escúrralas bien y séquelas con papel de cocina.",
+            "2. Ponga los ajos en el vaso y triture 5 seg / Vel 7. Baje los restos con la espátula.",
+            "3. Añada el aceite y sofría 5 min / Temp Varoma / Vel 2.",
+            "4. Incorpore las espinacas y la sal. Programe 5 min / Temp Varoma / Giro Izquierda / Vel Cuchara.",
+            "5. Precaliente el horno a 200°C.",
+            "6. Añada la harina y rehogue 1 min / 100°C / Vel 2.",
+            "7. Agregue la leche, la mantequilla, la nuez moscada y la pimienta. Cocine 7 min / 100°C / Vel 2.",
+            "8. En una fuente refractaria, vierta la mitad de la crema, coloque los huevos enteros encima y cubra con el resto de crema. Espolvoree con queso rallado y hornee 10 min a 200°C, hasta que los huevos estén cuajados y la superficie dorada."
+        ],
+        "image": "assets/images/Espinacas_a_la_crema.jpg"
+    },
+    {
+        "id": "Espinacas_y_garbanzos_con_salsa_de_tomate_y_huevos",
+        "name": "Espinacas y garbanzos con salsa de tomate y huevos",
+        "category": "Legumbres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 400 g espinacas frescas o congeladas",
+            "- 400 g garbanzos cocidos",
+            "- 300 g salsa de tomate",
+            "- 4 huevos",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Calienta la salsa de tomate en una sartén o en la Thermomix (5 min, 100°C, vel. 1).",
+            "2. Añade las espinacas y cocina 10 min (Thermomix: 10 min, 100°C, giro inverso, vel. cuchara).",
+            "3. Agrega los garbanzos cocidos y mezcla bien.",
+            "4. Casca los huevos encima. Cocina hasta que la clara esté cuajada (en olla, tapa puesta; en Thermomix, 5–6 min, 100°C, giro inverso, vel. cuchara).",
+            "5. Sirve caliente."
+        ],
+        "image": null
+    },
+    {
+        "id": "Falafel_con_salsa_de_yogur",
+        "name": "Falafel con salsa de yogur",
+        "category": "Legumbres, Platos especiales / internacionales",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 300 g de garbanzos secos",
+            "- 1 cucharadita de comino",
+            "- 2 dientes de ajo",
+            "- 1/2 cebolla",
+            "- Cilantro fresco al gusto",
+            "- Perejil fresco al gusto",
+            "- 1 cucharadita de levadura Royal",
+            "- Zumo de 1 limón",
+            "- Sal y pimienta al gusto",
+            "- Aceite abundante para freír",
+            "- 1 yogur natural",
+            "- 1 ajo rallado (para la salsa)",
+            "- Unas hojas de menta picada",
+            "- 2 cucharadas de aceite de oliva"
+        ],
+        "instructions": [
+            "1. Poner los garbanzos en remojo 18 horas. Escurrir y secar bien.",
+            "2. Triturar con ajo, cebolla, comino, cilantro, perejil y levadura Royal hasta obtener una masa homogénea.",
+            "3. Mezclar con los garbanzos triturados. Añadir sal y pimienta.",
+            "4. Tapar con un paño húmedo y dejar reposar para que la masa pierda humedad.",
+            "5. Formar bolitas, aplastarlas un poco y freírlas en abundante aceite caliente.",
+            "6. Para la salsa: en un cuenco mezclar el yogur con el ajo rallado, la menta picada, el zumo de limón, el aceite de oliva, sal y pimienta. Remover bien.",
+            "7. Servir los falafel calientes acompañados de la salsa de yogur."
+        ],
+        "image": "assets/images/Falafel_con_salsa_de_yogur.jpg"
+    },
+    {
+        "id": "Falafel",
+        "name": "Falafel",
+        "category": "Legumbres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 250 g garbanzos secos remojados 24 h",
+            "- 1 cebolla pequeña",
+            "- 2 dientes de ajo",
+            "- 1 manojo de perejil",
+            "- 1 manojo de cilantro",
+            "- 1 cdta comino",
+            "- 1 cdta sal",
+            "- 1 pizca pimienta",
+            "- 1 cdta bicarbonato",
+            "- Aceite para freír"
+        ],
+        "instructions": [
+            "1. Escurre bien los garbanzos remojados (no cocidos).",
+            "2. Tritúralos junto con la cebolla, el ajo, el perejil, el cilantro y las especias hasta obtener una masa grumosa.",
+            "3. Añade el bicarbonato y mezcla bien. Reposa en la nevera 30 min.",
+            "4. Forma bolitas o discos y fríelos en aceite caliente hasta que estén dorados.",
+            "5. Escurre sobre papel absorbente y sirve."
+        ],
+        "image": null
+    },
+    {
+        "id": "Fideos_chinos_versión_completa",
+        "name": "Fideos chinos (versión completa)",
+        "category": "Platos especiales / internacionales",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 200 g fideos chinos",
+            "- 200 g pechuga de pollo",
+            "- 1 calabacín",
+            "- 1 pimiento rojo",
+            "- 1 cebolla",
+            "- 1 zanahoria",
+            "- 2 dientes de ajo",
+            "- 1 trozo jengibre (2 cm)",
+            "- 30 ml salsa de soja",
+            "- 10 ml miel",
+            "- 10 ml vinagre suave",
+            "- 10 ml aceite de sésamo",
+            "- 1 cdta semillas de sésamo",
+            "- 20 g aceite de oliva"
+        ],
+        "instructions": [
+            "1. Cuece los fideos según el paquete y escurre.",
+            "2. Pela y pica los ajos y el jengibre. Corta las verduras en juliana.",
+            "3. Sofríe el ajo y el jengibre en aceite de oliva 2 min.",
+            "4. Añade el pollo en tiras y cocina hasta dorar.",
+            "5. Incorpora las verduras y cocina 5–6 min.",
+            "6. Agrega los fideos, la soja, la miel y el vinagre. Mezcla bien.",
+            "7. Termina con aceite de sésamo y semillas de sésamo."
+        ],
+        "image": null
+    },
+    {
+        "id": "Filetes_de_ternera_pollo_solomillo_o_castaña",
+        "name": "Filetes de ternera, pollo, solomillo o castaña",
+        "category": "Carnes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "según raciones",
+        "ingredients": [
+            "- Filetes de carne a elegir",
+            "- Sal",
+            "- Aceite de oliva"
+        ],
+        "instructions": [
+            "1. Seca los filetes con papel de cocina y ponles sal por ambos lados.",
+            "2. Calienta una sartén o plancha con un poco de aceite.",
+            "3. Cocina cada filete 2–3 min por lado, ajustando según grosor y punto deseado.",
+            "4. Retira y sirve inmediatamente."
+        ],
+        "image": null
+    },
+    {
+        "id": "Flautín_de_calabacín",
+        "name": "Flautín de calabacín",
+        "category": "Verduras",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "2",
+        "ingredients": [
+            "Para la base:",
+            "- 350–400 g calabacín",
+            "- 1 huevo",
+            "- Ajo o especias al gusto",
+            "Para el relleno (opcional):",
+            "- Lacón ibérico",
+            "- Mozzarella",
+            "- Otras opciones: tomate, aguacate, lentejas, quinoa, pollo, atún"
+        ],
+        "instructions": [
+            "1. Lava bien el calabacín, sécalo y rállalo con piel.",
+            "2. Coloca el calabacín rallado en un trapo de cocina y estrújalo bien para sacar el agua.",
+            "3. Pon el calabacín en un bol, añade el huevo y las especias, y mezcla bien.",
+            "4. Precalienta el horno a 200 °C (arriba y abajo). Coloca la mezcla sobre papel vegetal en una bandeja y extiende en capa fina.",
+            "5. Hornea 20–25 min hasta que la masa quede ligeramente dorada.",
+            "6. Saca del horno, añade el relleno elegido, enrolla y vuelve a hornear 10 min a la misma temperatura para que se dore."
+        ],
+        "image": null
+    },
+    {
+        "id": "Galletas_de_avena_y_chocolate",
+        "name": "Galletas de avena y chocolate",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "20",
+        "ingredients": [
+            "- 200 g copos de avena",
+            "- 80 g leche de avena",
+            "- 100 g azúcar de coco",
+            "- 10 g levadura en polvo",
+            "- 80 g aceite",
+            "- 100 g pepitas de chocolate"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 200°C.",
+            "2. Mezcla en un bol los copos de avena, la leche, el azúcar, la levadura y el aceite.",
+            "3. Añade las pepitas de chocolate y mezcla bien.",
+            "4. Forma pequeñas bolas y colócalas en una bandeja con papel de horno.",
+            "5. Hornea 12 min a 200°C hasta que estén doradas."
+        ],
+        "image": null
+    },
+    {
+        "id": "Galletas_saludables_de_chocolate_MyebyCosta",
+        "name": "Galletas saludables de chocolate (MyebyCosta)",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "12",
+        "ingredients": [
+            "- 100 g de harina de avena",
+            "- 100 g de almendra molida",
+            "- 35 ml de aceite de oliva",
+            "- 60 ml de leche (la habitual; puede ser vegetal, p. ej. almendra)",
+            "- 1 cucharadita generosa de miel",
+            "- Chocolate negro 85% (cantidad suficiente)",
+            "- Un poco de aceite de coco (para derretir el chocolate)"
+        ],
+        "instructions": [
+            "1. Mezclar en un bol la harina de avena, la almendra molida, el aceite de oliva, la leche y la miel hasta obtener una masa homogénea.",
+            "2. Formar 12 bolitas, aplastarlas ligeramente haciendo un hueco en el centro y colocarlas sobre una bandeja con papel vegetal.",
+            "3. Hornear a 180 °C durante 25 minutos. Retirar del horno y dejar enfriar.",
+            "4. Derretir el chocolate negro con un poco de aceite de coco.",
+            "5. Rellenar el hueco de cada galleta con el chocolate derretido.",
+            "6. Llevar a la nevera hasta que el chocolate endurezca y servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Gazpacho",
+        "name": "Gazpacho",
+        "category": "Sopas y cremas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 1 kg tomates maduros",
+            "- 1 diente de ajo",
+            "- 50 g pimiento verde",
+            "- 40 g cebolla",
+            "- 70 g pepino",
+            "- 30 g vinagre",
+            "- 50 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Lava los tomates, el pepino y el pimiento.",
+            "2. Pela el ajo y corta la cebolla.",
+            "3. Coloca todos los ingredientes en el vaso de la Thermomix.",
+            "4. Tritura 3 min, vel. 10, hasta que quede muy fino.",
+            "(Manual: usa batidora potente).",
+            "5. Guarda en nevera y sirve bien frío."
+        ],
+        "image": null
+    },
+    {
+        "id": "Grelos_salteados_guarnición",
+        "name": "Grelos salteados (guarnición)",
+        "category": "Básicos y acompañamientos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 400 g grelos",
+            "- 2 dientes de ajo",
+            "- 20 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Lava y corta los grelos en trozos medianos.",
+            "2. Escáldalos 3–4 min en agua con sal y escurre.",
+            "3. Dora los ajos en aceite y añade los grelos. Saltea 3–4 min."
+        ],
+        "image": null
+    },
+    {
+        "id": "Guacamole_TMX",
+        "name": "Guacamole (TMX)",
+        "category": "Salsas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "400 g",
+        "ingredients": [
+            "- 60 g cebolleta",
+            "- 100 g tomate rojo",
+            "- 1 ramita cilantro",
+            "- 1 pimiento jalapeño o 1 cucharadita salsa Tabasco verde",
+            "- 50 g aceite de oliva virgen extra",
+            "- Zumo de 1/2 lima",
+            "- 2 aguacates maduros",
+            "- 1 cucharadita sal"
+        ],
+        "instructions": [
+            "1. Introducir todos los ingredientes en el vaso de la Thermomix en el orden indicado.",
+            "2. Programar 15 s / vel 4.",
+            "3. Servir en un cuenco acompañado de nachos.",
+            "4. Para evitar oxidación, colocar el hueso del aguacate dentro del cuenco."
+        ],
+        "image": null
+    },
+    {
+        "id": "Helado_de_pistacho",
+        "name": "Helado de pistacho",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 200 g crema de pistacho",
+            "- 200 ml leche de almendra",
+            "- Edulcorante al gusto",
+            "- Chocolate negro (para la cobertura)"
+        ],
+        "instructions": [
+            "1. Mezcla en un bol la crema de pistacho, la leche de almendra y el edulcorante hasta integrar.",
+            "2. Vierte la mezcla en moldes para helado y congela al menos 3 horas.",
+            "3. Funde el chocolate negro en microondas o al baño maría.",
+            "4. Desmolda los helados y báñalos en el chocolate fundido.",
+            "5. Vuelve a meterlos al congelador por al menos 10 minutos antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Helado_saludable_de_chocolate_3_ingredientes",
+        "name": "Helado saludable de chocolate (3 ingredientes)",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "2",
+        "ingredients": [
+            "- 250 g queso batido",
+            "- 2 plátanos grandes congelados",
+            "- 1 cda cacao en polvo"
+        ],
+        "instructions": [
+            "1. Pela los plátanos, córtalos en rodajas y congélalos previamente.",
+            "2. Coloca en una batidora los plátanos congelados, el queso batido y el cacao en polvo.",
+            "3. Tritura hasta obtener una crema homogénea y cremosa.",
+            "4. Vierte en un recipiente y congela durante unas horas para mayor consistencia.",
+            "5. Sirve y disfruta."
+        ],
+        "image": null
+    },
+    {
+        "id": "Huevos_Rellenos_Lucía",
+        "name": "Huevos Rellenos (Lucía)",
+        "category": "Aperitivos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "",
+        "ingredients": [
+            "8-10 Huevos",
+            "1 Bote cristal de atún",
+            "Salsa de tomate (mamá)",
+            "Mayonesa"
+        ],
+        "instructions": [
+            "Cocer los huevos.",
+            "Abrir al medio y sacar las yemas.",
+            "En un bol, mezclar las yemas con 1 bote cristal de atún. Reservar una yema sin mezclar.",
+            "Añadir unas cucharadas de salsa de tomate (mamá) y seguir mezclando con el tenedor.",
+            "Poner la mezcla en los huevos cortados.",
+            "Poner un poco de mayonesa por encima de cada huevo.",
+            "Rallar la yema de huevo que reservamos por encima para decorar.",
+            "Meter en la nevera."
+        ],
+        "image": null
+    },
+    {
+        "id": "Jarrete_con_arroz",
+        "name": "Jarrete con arroz",
+        "category": "Carnes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 1 jarrete de ternera",
+            "- 1 cebolla",
+            "- 1 pimiento rojo",
+            "- 2 tomates maduros",
+            "- 2 dientes de ajo",
+            "- 250 g arroz",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Pela y pica la cebolla, el pimiento, los tomates y el ajo.",
+            "2. Sofríelos en una cazuela con aceite 10 min.",
+            "3. Añade el jarrete troceado y guisa a fuego lento hasta que esté tierno, añadiendo agua o caldo según necesite.",
+            "4. Incorpora el arroz y más caldo si hace falta. Cuece hasta que el arroz esté en su punto."
+        ],
+        "image": null
+    },
+    {
+        "id": "Judías_verdes_al_vapor_guarnición",
+        "name": "Judías verdes al vapor (guarnición)",
+        "category": "Básicos y acompañamientos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 400 g judías verdes",
+            "- 1 cdta sal",
+            "- 20 g aceite de oliva"
+        ],
+        "instructions": [
+            "1. Lava y corta las puntas de las judías.",
+            "2. Cuécelas al vapor o en agua con sal 8–10 min, hasta que estén tiernas pero firmes.",
+            "3. Escúrrelas bien y aliña con aceite y sal."
+        ],
+        "image": null
+    },
+    {
+        "id": "Lasaña_o_Musaka_carne_champiñón_espinaca_bechamel",
+        "name": "Lasaña o Musaka (carne, champiñón, espinaca, bechamel)",
+        "category": "Pasta y arroces",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 12 placas de lasaña precocida o láminas de berenjena (para musaka)",
+            "- 400 g carne picada",
+            "- 150 g champiñones",
+            "- 200 g espinacas",
+            "- 400 g bechamel",
+            "- 150 g queso rallado",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Sofríe la carne, los champiñones y las espinacas en aceite hasta que estén cocinados.",
+            "2. Monta la lasaña alternando capas de placas y relleno.",
+            "3. Cubre con bechamel y queso rallado.",
+            "4. Hornea 25–30 min a 180°C, hasta que gratine."
+        ],
+        "image": null
+    },
+    {
+        "id": "Lazos_de_Hojaldre_con_Pavo_y_Queso_Brie",
+        "name": "Lazos de Hojaldre con Pavo y Queso Brie",
+        "category": "Otros",
+        "description": "\nUn aperitivo estrella para Navidad, extremadamente fácil y rápido de preparar, que solo requiere tres ingredientes básicos.\n",
+        "prep_time": "10 min",
+        "cook_time": "20 min",
+        "servings": "4",
+        "ingredients": [
+            "- 1 lámina de hojaldre (preferiblemente con mantequilla)",
+            "- Queso Brie (cortado en trozos o láminas)",
+            "- Lonchas de pavo",
+            "- 1 huevo batido (para pincelar)",
+            "- Sésamo y queso parmesano (opcional para decorar)"
+        ],
+        "instructions": [
+            "1. Estirar la lámina de hojaldre sobre una superficie plana.",
+            "2. Colocar trozos de queso brie y lonchas de pavo cubriendo la mitad de la masa.",
+            "3. Cerrar el hojaldre doblando la parte vacía sobre el relleno para que quede todo en el interior.",
+            "4. Pasar un rodillo por encima para aplanar y sellar bien el conjunto.",
+            "5. Con un cortapizzas, cortar la masa en tiras horizontales.",
+            "6. Enrollar cada tira sobre sí misma dándole dos o tres vueltas para formar un lazo o espiral.",
+            "7. Colocar los lazos en una bandeja de horno y pincelar con huevo batido.",
+            "8. Opcionalmente, espolvorear sésamo y queso parmesano por encima.",
+            "9. Hornear durante 20 minutos a 200°C hasta que estén dorados."
+        ],
+        "image": null
+    },
+    {
+        "id": "Lentejas_calabacín_zanahoria_puerro",
+        "name": "Lentejas calabacín zanahoria puerro",
+        "category": "Legumbres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 300 g lentejas",
+            "- 1 calabacín",
+            "- 2 zanahorias",
+            "- 1 puerro",
+            "- 1/2 diente de ajo",
+            "- 1 cebolla",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal",
+            "- 1 cdta pimentón",
+            "- 800 ml agua"
+        ],
+        "instructions": [
+            "1. Pela y corta en trozos pequeños la cebolla, el puerro, la zanahoria, el calabacín y el ajo.",
+            "2. (Thermomix) Introduce las verduras en el vaso con el aceite. Sofríe 8 min, 120°C, vel. 1.",
+            "(Manual) Sofríe las verduras en una olla con aceite a fuego medio hasta que estén blandas.",
+            "3. Añade las lentejas lavadas, el pimentón y el agua.",
+            "4. Cocina 30 min (Thermomix: 100°C, giro inverso, vel. cuchara; Olla: fuego medio con tapa).",
+            "5. Prueba y rectifica de sal antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Llana_asada_con_salsa_de_su_jugo",
+        "name": "Llana asada con salsa de su jugo",
+        "category": "Carnes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 1,5 kg llana de ternera",
+            "- 3 dientes de ajo",
+            "- 1 cebolla grande",
+            "- 1 pimiento rojo",
+            "- 200 ml vino blanco",
+            "- 200 ml caldo de carne o agua",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal",
+            "- 1 pizca pimienta",
+            "- Perejil fresco"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 180°C.",
+            "2. Seca la carne, salpiméntala y séllala en una sartén con aceite hasta dorar. Reserva.",
+            "3. Sofríe en la misma sartén el ajo, la cebolla y el pimiento picados. Añade el vino y deja reducir unos minutos.",
+            "4. Coloca el sofrito en una fuente de horno. Pon encima la carne y añade un poco de caldo.",
+            "5. Hornea 90 min a 180°C, regando de vez en cuando con su jugo.",
+            "6. Retira la carne, deja reposar 10 min. Tritura el fondo de la bandeja para hacer la salsa.",
+            "7. Sirve la carne en rodajas con la salsa y perejil picado."
+        ],
+        "image": null
+    },
+    {
+        "id": "Macu_Crema_fría_al_pesto",
+        "name": "Macu Crema fría al pesto",
+        "category": "MACU",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 50 g parmesano",
+            "- 40 g hojas de albahaca",
+            "- 1 diente ajo",
+            "- 30 g piñones",
+            "- 100 g aceite de oliva virgen extra",
+            "- Sal",
+            "- 1 bote leche evaporada",
+            "- 1 l agua aprox."
+        ],
+        "instructions": [
+            "1. Ralle parmesano: 10 seg / vel 9.",
+            "2. Añada albahaca, ajo y piñones. Triture 15 seg / vel 7. Baje restos.",
+            "3. Incorpore leche evaporada, agua y sal. Triture 1 min / vel 8.",
+            "4. Sirva fría con piñones y hojas de albahaca."
+        ],
+        "image": null
+    },
+    {
+        "id": "Macu_Crujientes_de_verduras_con_queso_Brie",
+        "name": "Macu Crujientes de verduras con queso Brie",
+        "category": "MACU",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 1 paquete de pasta filo (o pasta brick)",
+            "- Margarina o aceite para pincelar",
+            "- 100 g calabacín sin pelar",
+            "- 100 g cebolla",
+            "- 100 g repollo",
+            "- 200 g pimiento",
+            "- 200 g queso Brie",
+            "- Sal y pimienta",
+            "- Vinagreta: 30 g vinagre balsámico, 100 g aceite de oliva virgen extra, sal",
+            "- Cebollino para atar paquetes (opcional)"
+        ],
+        "instructions": [
+            "1. Trocee las verduras 6–8 seg / vel 3½. Retire.",
+            "2. Sofría 7 min / temp Varoma / vel 1.",
+            "3. Deje templar y mezcle con el queso Brie en dados.",
+            "4. Rellene la pasta filo pincelada con margarina, cierre en paquetitos y hornee 10–12 min / 180ºC.",
+            "5. Sirva con vinagreta y, si desea, atados con cebollino."
+        ],
+        "image": null
+    },
+    {
+        "id": "Macu_Guiso_Mar_y_Tierra",
+        "name": "Macu Guiso \"Mar y Tierra\"",
+        "category": "MACU",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- Fumet: 250 g gambas o langostinos, 30 g aceite, 400 g agua",
+            "- Sofrito: 50 g aceite, 100 g pimiento rojo, 100 g pimiento verde, 100 g cebolla, 2 dientes de ajo, 200 g tomate triturado",
+            "- 600 g garbanzos cocidos y escurridos",
+            "- 200 g calabaza (opcional)",
+            "- 2 pastillas caldo pescado",
+            "- Hebras de azafrán"
+        ],
+        "instructions": [
+            "1. Prepare el fumet: 10 min / Varoma / vel 2. Cuele y reserve.",
+            "2. Sofría verduras y tomate 10 min / Varoma / vel 1.",
+            "3. Añada fumet, garbanzos, calabaza, caldo y azafrán. Programe 20 min / 100ºC / giro izq / vel cuchara.",
+            "4. Añada gambas peladas y programe 2 min / 100ºC / giro izq / vel cuchara."
+        ],
+        "image": null
+    },
+    {
+        "id": "Macu_Pechugas_de_pollo_en_salsa_de_coco_con_curry",
+        "name": "Macu Pechugas de pollo en salsa de coco con curry",
+        "category": "MACU",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 1 kg pechugas de pollo en tacos",
+            "- 30 g margarina",
+            "- 50 g aceite oliva virgen extra",
+            "- 150 g cebolla",
+            "- 2 dientes de ajo",
+            "- 200 g tomate triturado",
+            "- 250 g manzana Golden en láminas",
+            "- 1 lata leche de coco (400 g)",
+            "- 2 cdas curry en polvo",
+            "- 1–2 cdas azúcar (opcional)",
+            "- Sal y pimienta",
+            "- 2 pastillas caldo pollo",
+            "- Cayena (opcional)",
+            "- Para acompañar: arroz blanco"
+        ],
+        "instructions": [
+            "1. Sofría mantequilla, aceite, ajo y cebolla 5 min / Varoma / vel 1.",
+            "2. Añada tomate y rehogue 5 min / Varoma / vel 1.",
+            "3. Incorpore manzana: 5 min / 100ºC / vel 1.",
+            "4. Añada leche de coco, curry, azúcar, caldo y cayena. Programe 10 min / 100ºC / giro izq / vel cuchara.",
+            "5. Agregue pollo y cocine 15 min / 100ºC / giro izq / vel cuchara.",
+            "6. Sirva con arroz blanco."
+        ],
+        "image": null
+    },
+    {
+        "id": "Macu_Pepinos_rellenos_de_queso_fresco_y_verduras",
+        "name": "Macu Pepinos rellenos de queso fresco y verduras",
+        "category": "MACU",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 6 pepinos pequeños",
+            "- 300 g queso fresco tipo Quark",
+            "- 200 g nata líquida",
+            "- 4 cebolletas (o 100 g cebolla)",
+            "- 1 diente de ajo",
+            "- 80 g pimiento rojo",
+            "- 80 g pimiento verde",
+            "- Un manojo de estragón o finas hierbas",
+            "- 2 cdas mostaza",
+            "- Sal y pimienta"
+        ],
+        "instructions": [
+            "1. Pele los pepinos a tiras alternas y pártalos a lo largo. Retire las semillas.",
+            "2. Trocee cebollas, ajo y pimientos 3 seg / vel 5.",
+            "3. Añada queso, nata, mostaza, hierbas, sal y pimienta. Mezcle 10 seg / vel 3.",
+            "4. Rellene los pepinos, enfríe 30 min y sirva."
+        ],
+        "image": null
+    },
+    {
+        "id": "Macu_Pimientos_de_piquillo_rellenos_de_gulas_con_salsa_de_tinta",
+        "name": "Macu Pimientos de piquillo rellenos de gulas con salsa de tinta",
+        "category": "MACU",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 2 latas de pimientos del piquillo",
+            "- 400 g gulas",
+            "- 50 g aceite de oliva virgen extra",
+            "- 2 dientes de ajo laminados",
+            "- 4 cayenas",
+            "- Salsa:",
+            "- 50 g aceite de oliva virgen extra",
+            "- 200 g cebolla",
+            "- 100 g pimiento verde",
+            "- 2 dientes de ajo",
+            "- 1 bolsita tinta de calamar",
+            "- 1 pastilla caldo pescado (o sal)",
+            "- 100 g vino blanco",
+            "- Pimienta"
+        ],
+        "instructions": [
+            "1. Sofría ajo y cayena 5 min / Varoma / vel 1. Añada gulas y rehogue 2 min. Reserve.",
+            "2. Para la salsa: sofría cebolla, pimiento y ajo 10 min / Varoma / vel 1.",
+            "3. Añada vino, reduzca 5 min / Varoma / vel 1 sin cubilete.",
+            "4. Incorpore tinta y caldo. Triture 30 seg / vel 7.",
+            "5. Rellene los pimientos con las gulas y sirva con salsa."
+        ],
+        "image": null
+    },
+    {
+        "id": "Macu_Rollo_tricolor",
+        "name": "Macu Rollo tricolor",
+        "category": "MACU",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 100 g hojas grandes de espinacas (sin tallos)",
+            "- 200 g queso crema light",
+            "- 200 g queso de cabra",
+            "- 6 pimientos del piquillo",
+            "- Pimienta",
+            "- Salsa templada:",
+            "- 20 g margarina vegetal",
+            "- 30 g aceite de oliva virgen extra",
+            "- 30 g salsa de soja",
+            "- ½ cdta mostaza",
+            "- Gotas de tabasco"
+        ],
+        "instructions": [
+            "1. Ponga en el vaso la margarina, aceite, salsa de soja, mostaza y tabasco. Programe 4 min / 100ºC / vel 2. Reserve.",
+            "2. Triture los quesos 15 seg / vel 3. Añada pimienta.",
+            "3. Forme un rectángulo con hojas de espinaca, coloque la mezcla de quesos y los pimientos en tiras. Enrolle con film y refrigere 2 h.",
+            "4. Corte en rodajas y sirva con la salsa templada."
+        ],
+        "image": null
+    },
+    {
+        "id": "Macu_Tartar_de_bonito",
+        "name": "Macu Tartar de bonito",
+        "category": "MACU",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 500 g bonito limpio (sin piel ni espinas, ni parte oscura)",
+            "- 60 g zumo de limón",
+            "- 40 g salsa de soja",
+            "- 60 g pepinillos en vinagre",
+            "- 60 g aceitunas verdes sin hueso",
+            "- 2 cdas alcaparras",
+            "- 100 g tomates",
+            "- 1 aguacate",
+            "- Cebollino, sal y pimienta"
+        ],
+        "instructions": [
+            "1. Ponga el bonito con el zumo de limón en el vaso y pique 5 seg / vel 4. Reserve en un cuenco.",
+            "2. Añada las aceitunas, pepinillos, alcaparras y tomates. Trocee 4 seg / vel 5. Baje los restos con la espátula.",
+            "3. Incorpore la salsa de soja y mezcle 12 seg / vel 2.",
+            "4. Pele y parta el aguacate en dos. Reserve una mitad para decorar y corte la otra en dados. Añádalo a la mezcla.",
+            "5. Salpimiente, decore con cebollino picado y refrigere al menos 1 h antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Muffins_cetogénicos_de_arándanos",
+        "name": "Muffins cetogénicos de arándanos",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 120 g harina de almendras",
+            "- 2 huevos",
+            "- 1 cda eritritol (más si deseas más dulzor)",
+            "- 1/2 cdta extracto puro de vainilla",
+            "- 1/2 cdta polvo de hornear",
+            "- 100 g arándanos",
+            "- 50 g mantequilla"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 180°C y prepara un molde para muffins con cápsulas o papel de horno.",
+            "2. En un bol grande, bate los huevos con el eritritol.",
+            "3. En otro bol, mezcla la harina de almendras, la vainilla y el polvo de hornear.",
+            "4. Une la mezcla seca con los huevos y añade la mantequilla derretida. Mezcla hasta integrar.",
+            "5. Incorpora los arándanos suavemente.",
+            "6. Reparte la masa en el molde y hornea durante 15 minutos, hasta que estén firmes."
+        ],
+        "image": null
+    },
+    {
+        "id": "Muslos_de_pollo_en_AirFryer",
+        "name": "Muslos de pollo en AirFryer",
+        "category": "Carnes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "según raciones",
+        "ingredients": [
+            "- Muslos de pollo",
+            "- Sal",
+            "- Aceite de oliva",
+            "- Especias al gusto"
+        ],
+        "instructions": [
+            "1. Lava y seca los muslos. Ponles sal y especias al gusto.",
+            "2. Pinta con un poco de aceite para que queden más crujientes.",
+            "3. Coloca en la AirFryer a 180°C durante 45 min. Gira a mitad de tiempo para una cocción uniforme.",
+            "4. Comprueba que estén bien cocinados por dentro antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Pan_de_nueces_bizcocho_2",
+        "name": "Pan de nueces (bizcocho)",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "10",
+        "ingredients": [
+            "- 400 g nueces troceadas",
+            "- 150 g azúcar",
+            "- 100 g mantequilla pomada",
+            "- 6 huevos",
+            "- 500 g harina",
+            "- 1 sobre levadura",
+            "- 50 ml leche (si la masa está muy densa)"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 180°C.",
+            "2. Bate la mantequilla con el azúcar hasta que quede cremosa.",
+            "3. Añade los huevos uno a uno, batiendo cada vez.",
+            "4. Incorpora la harina y la levadura, mezcla suavemente.",
+            "5. Agrega las nueces troceadas. Si la masa queda muy espesa, añade un poco de leche.",
+            "6. Vierte en un molde engrasado y hornea 45–50 min a 180°C."
+        ],
+        "image": null
+    },
+    {
+        "id": "Pan_de_nueces_bizcocho",
+        "name": "Pan de nueces (bizcocho)",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "10",
+        "ingredients": [
+            "- 500 g nueces troceadas",
+            "- 150 g azúcar",
+            "- 100 g mantequilla pomada",
+            "- 6 huevos",
+            "- 400 g harina",
+            "- 1 sobre levadura",
+            "- 50 ml leche (opcional)"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 180°C.",
+            "2. Bate la mantequilla con el azúcar hasta que esté cremosa.",
+            "3. Añade los huevos uno a uno, batiendo cada vez.",
+            "4. Incorpora la harina y la levadura, mezcla suavemente.",
+            "5. Agrega las nueces. Si queda muy espesa, añade un poco de leche.",
+            "6. Hornea 45–50 min a 180°C en un molde engrasado."
+        ],
+        "image": null
+    },
+    {
+        "id": "Pan_de_trigo_sarraceno",
+        "name": "Pan de trigo sarraceno",
+        "category": "Panes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "1 pan",
+        "ingredients": [
+            "- 500 g trigo sarraceno en grano (no harina)",
+            "- 20 g psyllium en polvo (o chía molida)",
+            "- 150-180 ml agua",
+            "- 10 g sal",
+            "- (Opcional) 240 g trigo sarraceno + 160 g lentejas en grano",
+            "- (Opcional) harina de trigo sarraceno extra para espolvorear"
+        ],
+        "instructions": [
+            "1. Lava el trigo sarraceno con agua.",
+            "2. Colócalo en un bol grande de cristal, cúbrelo con agua y deja en remojo toda la noche.",
+            "3. Al día siguiente escurre MUY BIEN el trigo, pero no lo enjuagues (la sustancia pegajosa ayuda a ligar la masa).",
+            "4. Pon el trigo escurrido en una batidora y añade 100-150 ml de agua y la sal. Empieza con menos agua y ajusta hasta que la masa sea densa (no líquida).",
+            "5. Tritura hasta obtener una mezcla homogénea (pueden quedar algunos granos enteros).",
+            "6. Pasa la masa a un bol de cristal y añade el psyllium en polvo o chía molida. Mezcla con una cuchara.",
+            "7. Cubre el bol con un paño limpio y deja fermentar 24 h a temperatura ambiente.",
+            "8. Pasado el tiempo, precalienta el horno a 175°C. Forra una bandeja con papel de horno y coloca la masa encima, sin molde. Espolvorea harina por encima y haz 2 cortes para facilitar la cocción.",
+            "9. Hornea durante 1 h 20 min a 175°C.",
+            "10. Retira del horno y deja enfriar sobre una rejilla para que no se humedezca por debajo."
+        ],
+        "image": null
+    },
+    {
+        "id": "Pan_Desayuno_arroz_y_espelta",
+        "name": "Pan Desayuno (arroz y espelta)",
+        "category": "Panes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "2 barras",
+        "ingredients": [
+            "- 1  harina de arroz",
+            "- 1  harina de espelta",
+            "- 1 taco de levadura fresca",
+            "- 800 ml agua caliente",
+            "- 1 cdta sal (tamaño postre)"
+        ],
+        "instructions": [
+            "1. Mezcla en un bol grande las harinas.",
+            "2. Disuelve el taco de levadura en los 800 ml de agua caliente y la sal, asegurándote de que quede bien revuelta.",
+            "3. Añade el agua con levadura y la sal sobre las harinas y amasa hasta obtener una masa homogénea.",
+            "4. Cubre el bol con un trapo y deja reposar (leudar) durante 1 hora.",
+            "5. Transfiere la masa a los moldes.",
+            "6. Hornea durante 1 hora en horno precalentado."
+        ],
+        "image": null
+    },
+    {
+        "id": "Pan_keto_de_almendras_y_coco",
+        "name": "Pan keto de almendras y coco",
+        "category": "Panes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "1 pan",
+        "ingredients": [
+            "- 100 g harina de almendras",
+            "- 15 g harina de coco",
+            "- 30 g psyllium en cáscara",
+            "- 2 cucharaditas levadura",
+            "- 1 cucharada vinagre de manzana",
+            "- 3 claras de huevo",
+            "- 200 ml agua caliente",
+            "- Semillas para decorar (opcional)"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 180°C.",
+            "2. En un bol mezcla la harina de almendras, harina de coco, psyllium y levadura.",
+            "3. Añade el vinagre de manzana y las claras de huevo.",
+            "4. Incorpora poco a poco el agua caliente y mezcla hasta obtener una masa homogénea.",
+            "5. Forma un pan o bollo con la masa y colócalo sobre una bandeja con papel de horno.",
+            "6. Decora con semillas si lo deseas.",
+            "7. Hornea a 180°C durante 50-60 minutos, hasta que la corteza esté dorada y el pan suene hueco al golpear la base.",
+            "8. Deja enfriar sobre una rejilla antes de cortar."
+        ],
+        "image": null
+    },
+    {
+        "id": "Pasta_fresca_con_pesto_langostinos_y_brécol",
+        "name": "Pasta fresca con pesto, langostinos y brécol",
+        "category": "Pasta y arroces",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 300 g pasta fresca",
+            "- 100 g pesto",
+            "- 200 g langostinos pelados",
+            "- 200 g brécol",
+            "- 20 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Cuece la pasta en agua con sal el tiempo indicado por el fabricante.",
+            "2. Al mismo tiempo, cuece el brécol al vapor 5–6 min.",
+            "3. En una sartén, saltea los langostinos con aceite hasta que cambien de color.",
+            "4. Escurre la pasta, mézclala con el pesto, los langostinos y el brécol.",
+            "5. Sirve inmediatamente."
+        ],
+        "image": null
+    },
+    {
+        "id": "Pastel_de_calabacín",
+        "name": "Pastel de calabacín",
+        "category": "Verduras",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 1 calabacín",
+            "- 2 huevos cocidos",
+            "- 200 g atún",
+            "- Aceitunas verdes troceadas",
+            "- Tomate triturado natural",
+            "- Queso mozzarella",
+            "- Sal",
+            "- Orégano seco",
+            "- Pimienta negra"
+        ],
+        "instructions": [
+            "1. Haz láminas finas de calabacín con una mandolina y ponlas sobre papel absorbente para que suelten líquido.",
+            "2. En un bol, mezcla los huevos cocidos picados con el atún, las aceitunas y el tomate al gusto.",
+            "3. En un molde coloca una capa de calabacín, luego relleno, queso y otra capa de calabacín. Repite hasta terminar, acabando con calabacín.",
+            "4. Precalienta el horno a 180 °C y hornea durante 20 minutos."
+        ],
+        "image": null
+    },
+    {
+        "id": "Pastel_de_puerro_y_huevo",
+        "name": "Pastel de puerro y huevo",
+        "category": "Sopas y cremas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4-6",
+        "ingredients": [
+            "- 3 puerros",
+            "- 3 huevos",
+            "- 200 ml nata",
+            "- 1 masa brisa",
+            "- 100 g queso rallado",
+            "- 20 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Lava y corta los puerros en rodajas finas.",
+            "2. Sofríelos en una sartén con aceite hasta que estén blandos.",
+            "3. En un bol, bate los huevos con la nata y añade sal.",
+            "4. Incorpora los puerros y mezcla bien.",
+            "5. Coloca la masa brisa en un molde, vierte la mezcla y espolvorea con queso rallado.",
+            "6. Hornea 30–35 min a 180°C, hasta que cuaje y se dore."
+        ],
+        "image": null
+    },
+    {
+        "id": "Pastel_de_verduras_de_Loli_Domínguez_empanada_pollo",
+        "name": "Pastel de verduras de Loli Domínguez (empanada pollo)",
+        "category": "Platos especiales / internacionales",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 2 planchas de masa brisa o quebrada",
+            "- 300 g pechuga de pollo",
+            "- 150 g queso mozzarella",
+            "- 3 huevos",
+            "- Queso parmesano rallado (al gusto)",
+            "- 100 g queso tipo Philadelphia",
+            "- 1 cebolla",
+            "- 2 dientes de ajo",
+            "- 1 zanhoria",
+            "- 1 calabacín",
+            "- 6 champiñones",
+            "- 1 pimiento rojo",
+            "- 1 cda hierbas provenzales",
+            "- Pimienta negra",
+            "- Sal",
+            "- Aceite de oliva"
+        ],
+        "instructions": [
+            "1. Rallar la zanhoria y el calabacín con un rallador grueso.",
+            "2. Picar la cebolla y el ajo finamente. Picar los champiñones en dados pequeños.",
+            "3. Pelar y cortar el pimiento en cuadraditos.",
+            "4. En una sartén con aceite, sofreír la cebolla y el ajo hasta que se doren ligeramente.",
+            "5. Añadir las demás verduras ralladas y picadas. Sazonar con sal, pimienta y hierbas provenzales.",
+            "6. Incorporar el pollo troceado en dados pequeños y cocinar hasta que esté hecho.",
+            "7. Batir los huevos en un bol y añadir los quesos (Philadelphia, mozzarella y parmesano rallado).",
+            "8. Mezclar la preparación de verduras y pollo con la mezcla de huevos y quesos.",
+            "9. Forrar un molde con una plancha de masa brisa y verter el relleno dentro.",
+            "10. Cubrir con la otra plancha de masa, sellar los bordes y pintar con huevo batido.",
+            "11. Hornear a 180°C durante 45 minutos hasta que la masa esté dorada."
+        ],
+        "image": "assets/images/Pastel_de_verduras_de_Loli_Domínguez_empanada_pollo.jpg"
+    },
+    {
+        "id": "Patatas_asadas_Marcos",
+        "name": "Patatas asadas Marcos",
+        "category": "Básicos y acompañamientos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 1 kg patatas en gajos o chascadas",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal",
+            "- 1 pizca pimienta",
+            "- 1 cda salsa de ostras",
+            "- 2 dientes de ajo aplastados",
+            "- 1 ramita de romero",
+            "- 1 pizca pimentón (opcional)",
+            "- 150 ml agua"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 180°C.",
+            "2. Coloca las patatas en una bandeja con aceite, sal, pimienta, salsa de ostras, ajos, romero y pimentón si lo usas.",
+            "3. Añade un dedo de agua en la bandeja y mezcla bien.",
+            "4. Hornea 60 min a 180°C, removiendo a mitad de cocción para que se hagan por igual.",
+            "5. Sirve calientes, crujientes por fuera y tiernas por dentro."
+        ],
+        "image": null
+    },
+    {
+        "id": "Pavo_relleno_jamón_york_queso_zanahoria_champiñón",
+        "name": "Pavo relleno (jamón york, queso, zanahoria, champiñón)",
+        "category": "Carnes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 1 pechuga de pavo abierta en libro",
+            "- 4 lonchas jamón york",
+            "- 4 lonchas queso",
+            "- 1 zanahoria en bastones",
+            "- 150 g champiñones laminados",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Extiende la pechuga de pavo y salpimienta.",
+            "2. Coloca dentro el jamón, el queso, la zanahoria y los champiñones.",
+            "3. Enrolla y ata con hilo de cocina.",
+            "4. Dora el rollo en una sartén con aceite.",
+            "5. Termina la cocción al horno (180°C, 40 min) o guisado con un poco de caldo hasta que esté hecho.",
+            "6. Corta en medallones y sirve caliente."
+        ],
+        "image": null
+    },
+    {
+        "id": "Pescado_al_horno_30_jurelos_dorada_merluza_sargo_palometa_menda_coruxo",
+        "name": "Pescado al horno 30' (jurelos, dorada, merluza, sargo, palometa, menda, coruxo,…)",
+        "category": "Pescados y mariscos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 1 pescado entero o en lomos",
+            "- 2 patatas en rodajas",
+            "- 1 cebolla en tiras",
+            "- 1 pimiento en tiras",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 180°C.",
+            "2. Coloca en la bandeja las patatas, la cebolla y el pimiento con aceite y sal. Hornea 10 min.",
+            "3. Saca la bandeja y pon encima el pescado salado.",
+            "4. Hornea 20 min más, ajustando el tiempo según el grosor del pescado."
+        ],
+        "image": null
+    },
+    {
+        "id": "Piadina_Rellena_Estilo_Vikika_Air_Fryer",
+        "name": "Piadina Rellena Estilo Vikika (Air Fryer)",
+        "category": "CENAS",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "2",
+        "ingredients": [
+            "- 1 piadina (masa fina tipo wrap italiano)",
+            "- 4 huevos grandes",
+            "- 1 yogur griego natural (sin azúcar)",
+            "- 1 puñado de tomates cherry",
+            "- Espinacas frescas (hojas sueltas)",
+            "- Queso rallado (al gusto, para gratinar)",
+            "- Pavo en taquitos (opcional)",
+            "- Sal, pimienta negra y perejil"
+        ],
+        "instructions": [
+            "1. Coloque un papel protector en la cesta de la Air Fryer y acomode la piadina dentro, formando una especie de \"cuenco\" o cesta.",
+            "2. En un bol aparte, bata los 4 huevos junto con el yogur griego. Añada sal, pimienta y perejil al gusto hasta integrar.",
+            "3. Vuelque la mezcla de huevo y yogur con cuidado dentro de la piadina en la Air Fryer.",
+            "4. Corte los tomates cherry en trocitos y agréguelos. Trocee las hojas de espinaca y añádalas. (Truco: con un tenedor, empuje las hojas para sumergirlas en el huevo y evitar que se quemen).",
+            "5. Añada el pavo (si lo usa) y cubra todo con una capa generosa de queso rallado.",
+            "6. Cocine en la Air Fryer a 180 °C durante 18 a 20 minutos.",
+            "7. Saque con cuidado, corte y sirva."
+        ],
+        "image": "assets/images/Piadina_Rellena_Estilo_Vikika_Air_Fryer.jpg"
+    },
+    {
+        "id": "Pisto_de_puerro_pimientos_calabacín_y_tomate_triturado",
+        "name": "Pisto de puerro, pimientos, calabacín y tomate triturado",
+        "category": "Verduras",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 1 puerro",
+            "- 1 pimiento rojo",
+            "- 1 pimiento verde",
+            "- 1 calabacín",
+            "- 400 g tomate triturado",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Lava y corta el puerro, los pimientos y el calabacín en trozos pequeños.",
+            "2. Sofríe el puerro y los pimientos en aceite 10 min (Thermomix: 10 min, 120°C, vel. 1).",
+            "3. Añade el calabacín y rehoga 5 min más.",
+            "4. Incorpora el tomate triturado y cocina 45 min a fuego lento o Thermomix (45 min, 100°C, giro inverso, vel. cuchara)."
+        ],
+        "image": null
+    },
+    {
+        "id": "Poke_de_salmón",
+        "name": "Poke de salmón",
+        "category": "Platos especiales / internacionales",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 400 g salmón fresco en dados",
+            "- 30 ml salsa de soja",
+            "- 10 g miel",
+            "- Zumo de 1 lima",
+            "- 10 ml aceite de sésamo",
+            "- 1 cdta jengibre rallado",
+            "- 300 g arroz de sushi o quinoa",
+            "- 100 g edamame",
+            "- 1 mango",
+            "- 1 aguacate",
+            "- Algas al gusto",
+            "- Cebolla frita o crunchys",
+            "- Semillas de sésamo"
+        ],
+        "instructions": [
+            "1. Mezcla en un bol la soja, la miel, el zumo de lima, el aceite de sésamo y el jengibre. Marina el salmón en esta mezcla durante 1–2 h en la nevera.",
+            "2. Cocina el arroz de sushi o la quinoa y deja templar.",
+            "3. Pela y corta el mango y el aguacate en dados.",
+            "4. Sirve en boles el arroz o la quinoa de base. Coloca el salmón marinado, el edamame, el mango, el aguacate y las algas.",
+            "5. Termina con cebolla frita y semillas de sésamo."
+        ],
+        "image": "assets/images/Poke_de_salmón.jpg"
+    },
+    {
+        "id": "Pollo_butter_chicken",
+        "name": "Pollo butter chicken",
+        "category": "Platos especiales / internacionales",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 600 g pollo en trozos (3 pechugas)",
+            "- 6 cdas ghee (o 40 g mantequilla)",
+            "- 100 g yogur natural (opcional)",
+            "- Zumo de 1 limón (opcional)",
+            "- 1 cebolla",
+            "- 3 dientes de ajo",
+            "- 1 trozo de jengibre fresco (2 cm)",
+            "- 1 cdta garam masala",
+            "- 1 cdta comino",
+            "- 1 cdta cúrcuma (opcional)",
+            "- 1 cdta chile en polvo (o al gusto)",
+            "- 1 cdta azúcar",
+            "- 1 cdta sal",
+            "- Pimienta negra al gusto",
+            "- 400 g tomate triturado",
+            "- 50 g anacardos",
+            "- 150 ml nata"
+        ],
+        "instructions": [
+            "1. (Opcional) Prepara un marinado con yogur, zumo de limón, ajo y jengibre rallados, garam masala, cúrcuma y comino. Mezcla el pollo con esta preparación y deja reposar mínimo 1 hora.",
+            "2. Dora el pollo en ghee o mantequilla en una sartén o en Thermomix (10 min / 120°C / giro inverso / vel. cuchara). Retira y reserva.",
+            "3. En el mismo ghee sofríe la cebolla picada junto con el ajo y el jengibre hasta que esté dorada.",
+            "4. Añade las especias (garam masala, comino, chile), junto con el azúcar, la sal y la pimienta. Remueve para integrar.",
+            "5. Incorpora el tomate triturado y cocina 15 min (Thermomix: 15 min / 100°C / vel. 1).",
+            "6. Tritura la salsa junto con los anacardos y la nata hasta que quede cremosa (Thermomix: 1 min / vel. 8).",
+            "7. Devuelve el pollo reservado a la salsa y cocina todo junto 10–15 min a fuego suave para que se impregnen los sabores."
+        ],
+        "image": null
+    },
+    {
+        "id": "Pollo_con_quinoa_pimiento_y_calabacín",
+        "name": "Pollo con quinoa, pimiento y calabacín",
+        "category": "Carnes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 400 g pechuga de pollo",
+            "- 200 g quinoa cocida",
+            "- 1 pimiento rojo",
+            "- 1 calabacín",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Lava y corta el pimiento y el calabacín en dados.",
+            "2. Corta el pollo en tiras pequeñas y sazona.",
+            "3. Saltea el pollo en aceite hasta dorar. Añade las verduras y cocina 5–6 min más.",
+            "4. Incorpora la quinoa cocida y mezcla bien.",
+            "5. Sirve caliente."
+        ],
+        "image": null
+    },
+    {
+        "id": "Pollo_coreano",
+        "name": "Pollo coreano",
+        "category": "Platos especiales / internacionales",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 800 g pollo troceado",
+            "- 50 ml salsa de soja",
+            "- 30 g miel",
+            "- 2 dientes de ajo",
+            "- 1 trozo de jengibre fresco (2 cm)",
+            "- 10 ml aceite de sésamo",
+            "- 20 g maicena",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Pela y ralla el ajo y el jengibre.",
+            "2. Mezcla en un bol la soja, la miel, el ajo, el jengibre, el aceite de sésamo y la maicena.",
+            "3. Marina el pollo en esta mezcla durante al menos 1 hora en la nevera.",
+            "4. Calienta una sartén con un poco de aceite y cocina el pollo hasta dorar bien por todos los lados.",
+            "5. Sirve acompañado de arroz o verduras salteadas."
+        ],
+        "image": "assets/images/Pollo_coreano.jpg"
+    },
+    {
+        "id": "Pulpo_á_feira_versión_rápida",
+        "name": "Pulpo á feira (versión rápida)",
+        "category": "Pescados y mariscos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 1 pata de pulpo cocida envasada",
+            "- 4 patatas medianas",
+            "- 1 cdta sal gorda",
+            "- 1 cdta pimentón dulce",
+            "- 1 cdta pimentón picante",
+            "- 30 g aceite de oliva"
+        ],
+        "instructions": [
+            "pulpo_a_la_",
+            "gallega:",
+            "descripcion: Pulpo cocido sobre patatas, con sal gorda, pimentón y aceite de oliva virgen extra.",
+            "porciones: 4",
+            "ingredientes:",
+            "- pulpo:",
+            "cantidad: 1",
+            "peso: \"1.5 kg\"",
+            "notas: \"Crudo y previamente congelado al menos 24 h para ablandar\"",
+            "- patatas:",
+            "cantidad: 4",
+            "tamaño: \"medianas\"",
+            "notas: \"Lávalas bien, no pelar antes de cocer\"",
+            "- sal_gorda: \"al gusto\"",
+            "- pimentón:",
+            "cantidad: \"1-2 cucharaditas\"",
+            "tipo: \"dulce, picante o mezcla (paprika)\"",
+            "- aceite_de_oliva_virgen_",
+            "extra:",
+            "cantidad: \"al gusto\"",
+            "notas: \"Mejor si es de sabor intenso\"",
+            "instrucciones:",
+            "- paso_",
+            "1:",
+            "descripcion: \"Descongela el pulpo completamente si estaba congelado.\"",
+            "- paso_",
+            "2:",
+            "descripcion: \"Pon una olla grande con abundante agua sin sal a hervir.\"",
+            "- paso_",
+            "3:",
+            "descripcion: \"Sujeta el pulpo por la cabeza y 'asústalo': sumérgelo 2-3 veces unos segundos y sácalo para que no se le caiga la piel.\"",
+            "- paso_",
+            "4:",
+            "descripcion: \"Introduce el pulpo completamente en el agua y cuece a fuego medio durante 35-40 minutos.\"",
+            "- paso_",
+            "5:",
+            "descripcion: \"A los 15-20 minutos de cocción del pulpo, añade las patatas enteras y sin pelar a la misma olla.\"",
+            "nota: \"Asegúrate de que el agua no tenga sal aún.\"",
+            "- paso_",
+            "6:",
+            "descripcion: \"Pincha el pulpo y las patatas para comprobar que están tiernos. Si es así, apaga el fuego y deja reposar 5-10 minutos en el agua caliente.\"",
+            "- paso_",
+            "7:",
+            "descripcion: \"Saca las patatas, pélalas y córtalas en rodajas. Colócalas en una fuente plana como base.\"",
+            "- paso_",
+            "8:",
+            "descripcion: \"Corta el pulpo en rodajas (tentáculos) y colócalo sobre las patatas.\"",
+            "- paso_",
+            "9:",
+            "descripcion: \"Espolvorea con sal gorda, luego con el pimentón (paprika) elegido, y finalmente riega con buen aceite de oliva virgen extra.\"",
+            "notas_",
+            "finales:",
+            "- \"No añadir sal al agua de cocción del pulpo: la sal endurece su carne.\"",
+            "- \"El pimentón puede ser dulce, picante o una mezcla, según el gusto.\"",
+            "- \"Ideal servirlo tibio o a temperatura ambiente.\""
+        ],
+        "image": null
+    },
+    {
+        "id": "Puré_Patata_TM31",
+        "name": "Puré Patata TM31",
+        "category": "Básicos y acompañamientos",
+        "description": "\nReceta clásica de puré de patata adaptada para evitar que quede demasiado líquido.\n",
+        "prep_time": "5 min",
+        "cook_time": "21 min",
+        "servings": "6",
+        "ingredients": [
+            "- 1000 g de patatas para cocer, peladas y en trozos pequeños",
+            "- 400 g de leche SIN LACTOSA",
+            "- 1 cucharadita de sal",
+            "- 50 g de mantequilla o 50 g de aceite de oliva virgen extra",
+            "- Pimienta recién molida",
+            "- Nuez moscada (opcional)"
+        ],
+        "instructions": [
+            "1. Coloque la mariposa en las cuchillas.",
+            "2. Añada las patatas (1000g según anotación para mejor consistencia), el agua (o leche) y la sal.",
+            "3. Programe 20 minutos, 100°, velocidad 1. (Si utiliza leche en lugar de agua, programe 30 minutos, 90°, velocidad 1).",
+            "4. Acabado el tiempo, incorpore la mantequilla, sazone con pimienta y nuez moscada.",
+            "5. Programe 30 segundos, velocidad 3."
+        ],
+        "image": null
+    },
+    {
+        "id": "Quesada",
+        "name": "Quesada",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "8",
+        "ingredients": [
+            "- 300 g azúcar",
+            "- 200 g harina",
+            "- 100 g margarina",
+            "- 2 huevos",
+            "- 1 yogur natural",
+            "- 250 ml leche"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 180°C.",
+            "2. Coloca todos los ingredientes en un bol.",
+            "3. Mezcla hasta que quede homogéneo (Thermomix: 30 s, vel. 4).",
+            "4. Vierte en un molde engrasado.",
+            "5. Hornea 1 h a 180°C."
+        ],
+        "image": null
+    },
+    {
+        "id": "Quinoa_con_pollo_halloumi_y_verduras_al_horno",
+        "name": "Quinoa con pollo, halloumi y verduras al horno",
+        "category": "Platos especiales / internacionales",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 180 g Quinoa",
+            "- 350 g Pechuga de pollo (sazonada)",
+            "- 100 g Halloumi",
+            "- 120 g Garbanzos cocidos (en conserva)",
+            "- 100 g Tomates secos",
+            "- 1/4 Pimiento rojo",
+            "- 1/2 Calabacín",
+            "- 20 g Espinacas",
+            "- 1 Cebolla roja pequeña-mediana",
+            "- 400 ml Caldo de pollo",
+            "- 90 g Pasta de harissa",
+            "- 1 cda Sal, pimienta, pimentón, comino"
+        ],
+        "instructions": [
+            "1. Precalentar el horno a 180–200 ºC.",
+            "2. En una fuente, combinar todos los ingredientes excepto la pechuga de pollo. Mezclar bien.",
+            "3. Colocar la pechuga de pollo encima.",
+            "4. Cubrir con papel de aluminio y hornear durante 50 minutos.",
+            "5. Si la quinoa aún conserva agua, hornear 5–10 minutos más sin tapar.",
+            "6. Dejar reposar 15 minutos destapado antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Rapantes_a_la_plancha",
+        "name": "Rapantes a la plancha",
+        "category": "Pescados y mariscos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "según raciones",
+        "ingredients": [
+            "- Rapantes",
+            "- Sal",
+            "- Aceite de oliva"
+        ],
+        "instructions": [
+            "1. Lava los rapantes y sécalos bien.",
+            "2. Calienta una plancha o sartén con un poco de aceite.",
+            "3. Coloca los rapantes y cocínalos 2–3 min por cada lado hasta que estén hechos.",
+            "4. Sírvelos inmediatamente."
+        ],
+        "image": null
+    },
+    {
+        "id": "Rape_a_la_marinera_con_patatas_y_langostinos",
+        "name": "Rape a la marinera con patatas y langostinos",
+        "category": "Pescados y mariscos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 600 g rape en trozos",
+            "- 200 g langostinos",
+            "- 3 patatas",
+            "- 2 dientes de ajo",
+            "- 1 cebolla",
+            "- 1 guindilla (opcional)",
+            "- 100 ml vino blanco",
+            "- 200 g salsa de tomate",
+            "- 1 cda harina",
+            "- 400 ml caldo de pescado",
+            "- Perejil fresco",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Pela y corta las patatas en rodajas gruesas.",
+            "2. Sofríe los ajos, la cebolla y la guindilla en aceite. Añade el vino y deja reducir.",
+            "3. Incorpora la salsa de tomate y la harina, remueve bien.",
+            "4. Agrega el caldo y cuando hierva añade las patatas. Cocina 15–20 min hasta casi tiernas.",
+            "5. Añade el rape y cocina 4 min por cada lado. Incorpora los langostinos 2 min más.",
+            "6. Reposa 5 min y espolvorea con perejil."
+        ],
+        "image": null
+    },
+    {
+        "id": "Rape_estilo_langosta",
+        "name": "Rape estilo langosta",
+        "category": "Pescados y mariscos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 1 1/4 kg rape crudo (parte ancha, en lomos)",
+            "- 100 g pimentón",
+            "- 3 cdas aceite fino",
+            "- Sal",
+            "- Unas hojas de lechuga (para adornar)",
+            "- 1 huevo duro en rodajas o gambas (para adornar)",
+            "- Salsa: mayonesa simple, mayonesa con tomate y coñac, o vinagreta"
+        ],
+        "instructions": [
+            "1. En la pescadería, pedir que quiten piel y hueso del rape. Usar la parte ancha para obtener 2 lomos. Guardar el hueso.",
+            "2. En casa, lavar y secar bien el rape. Atar los lomos con cuerda fina como si fuera un asado.",
+            "3. Salar y untar con un poco de aceite y pimentón hasta cubrir bien todo el trozo.",
+            "4. Poner en una cacerola los lomos de rape y el hueso. Tapar y cocer a fuego medio unos 20 minutos, girando de vez en cuando para que se cuezan en su propio jugo.",
+            "5. Retirar, dejar enfriar sobre tabla y al momento de servir cortar en rodajas de un dedo de grosor, como si fuese cola de langosta.",
+            "6. Adornar la fuente con lechuga, huevo duro en rodajas o gambas. Servir acompañado de la salsa en salsera."
+        ],
+        "image": null
+    },
+    {
+        "id": "Rodaballo_al_Horno",
+        "name": "Rodaballo al Horno",
+        "category": "Pescados",
+        "description": "",
+        "prep_time": "10 min",
+        "cook_time": "",
+        "servings": "",
+        "ingredients": [
+            "1 Rodaballo (aprox. 2.5kg)",
+            "Ajo",
+            "Perejil fresco (o de bote si no hay fresco)",
+            "Sal",
+            "Aceite de oliva",
+            "Limón"
+        ],
+        "instructions": [
+            "Picar el ajo y el perejil.",
+            "Hacer unos cortes en el rodaballo.",
+            "Salar el pescado.",
+            "Untar el rodaballo con la mezcla de ajo y perejil.",
+            "Añadir un chorrito de aceite (poco).",
+            "Poner rodajas de limón en los cortes del rodaballo.",
+            "Precalentar el horno a 180°C.",
+            "Hornear durante 30 minutos (para una pieza de 2.5kg)."
+        ],
+        "image": null
+    },
+    {
+        "id": "Rollo_de_Hojaldre_con_Espinacas_Feta_y_Cottage",
+        "name": "Rollo de Hojaldre con Espinacas, Feta y Cottage",
+        "category": "Aperitivos",
+        "description": "\nUn aperitivo crujiente y cremoso ideal para compartir. Se prepara en pocos minutos combinando la frescura de las espinacas con la textura de dos quesos.\n",
+        "prep_time": "10 min",
+        "cook_time": "20-25 min",
+        "servings": "4-6 personas",
+        "ingredients": [
+            "1 lámina de masa de hojaldre rectangular",
+            "200g de espinacas baby frescas",
+            "150g de queso cottage",
+            "100g de queso feta desmenuzado",
+            "1 huevo (para pincelar)",
+            "Semillas de sésamo o ajonjolí (opcional, para decorar)",
+            "Sal y pimienta al gusto"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 200°C (400°F).",
+            "2. En un bol grande, mezcla las espinacas frescas (puedes trocearlas un poco), el queso cottage y el queso feta desmenuzado. Añade una pizca de sal y pimienta.",
+            "3. Extiende la masa de hojaldre sobre papel de horno.",
+            "4. Reparte la mezcla de espinacas y quesos de forma uniforme sobre la masa, dejando un pequeño margen en los bordes.",
+            "5. Enrolla el hojaldre con cuidado por el lado más largo hasta formar un cilindro apretado.",
+            "6. Pincela la parte superior con huevo batido para que brille y espolvorea las semillas de sésamo.",
+            "7. Con un cuchillo afilado, haz unos cortes diagonales ligeros en la parte superior para que salga el vapor.",
+            "8. Hornea durante 20-25 minutos o hasta que veas que el hojaldre ha subido y está bien dorado.",
+            "9. Deja atemperar 5 minutos antes de cortar en rodajas y servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Rosca_de_Carmen",
+        "name": "Rosca de Carmen",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "8-10",
+        "ingredients": [
+            "Ingredientes por kilo de harina:",
+            "- 1 kg harina",
+            "- 250 g azúcar",
+            "- 250 g manteca de vaca",
+            "- 8 huevos",
+            "- 1 cda sal",
+            "- Esencia de vainilla",
+            "- Esencia de anís",
+            "Masa madre:",
+            "- 250 g harina",
+            "- 125 g levadura fresca de panadería"
+        ],
+        "instructions": [
+            "Elaboración masa madre:",
+            "1. Deshacer la levadura con la harina y añadir agua templada poco a poco hasta formar una masa.",
+            "2. Amasar ligeramente, formar una bolita y dejar reposar 3–4 horas.",
+            "Elaboración masa rosca:",
+            "3. En una olla grande poner la harina y el azúcar. Hacer un hueco en el centro y añadir los huevos, la sal y las esencias.",
+            "4. Amasar dentro de la olla, añadiendo harina poco a poco hasta que coja consistencia.",
+            "5. Pasar la masa a la mesa, seguir amasando y añadir harina si es necesario hasta que no esté pegajosa.",
+            "6. Poner de nuevo en la olla limpia, tapar con una manta y dejar fermentar 3 horas (puede acelerarse con una olla con agua caliente debajo).",
+            "Elaboración rosca:",
+            "7. Cortar la masa, dar forma de rosca y colocar sobre papel de horno.",
+            "8. Dejar fermentar de nuevo 1 hora.",
+            "9. Pintar con huevo batido, añadir azúcar humedecido con unas gotas de agua y decorar con cerezas.",
+            "Horneado:",
+            "10. Hornear a 180°C (arriba, abajo y ventilador) en la parte baja del horno durante unos 20 minutos.",
+            "11. Comprobar con un palillo que salga seco.",
+            "12. Al sacar del horno dejar sobre una rejilla o un trapo (no en superficie fría)."
+        ],
+        "image": "assets/images/Rosca_de_Carmen.jpg"
+    },
+    {
+        "id": "Salmón_en_AirFryer_con_boniato",
+        "name": "Salmón en AirFryer con boniato",
+        "category": "Pescados y mariscos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 4 lomos de salmón",
+            "- 2 boniatos medianos",
+            "- 1 cdta sal",
+            "- 30 g aceite de oliva"
+        ],
+        "instructions": [
+            "1. Pela los boniatos y córtalos en rodajas o dados medianos.",
+            "2. Colócalos en la AirFryer con un poco de aceite y sal. Cocina 15 min a 180°C.",
+            "3. Abre la cubeta, añade los lomos de salmón con un poco de aceite y sal.",
+            "4. Cocina otros 15 min a 180°C.",
+            "5. Sirve juntos, procurando que el salmón quede jugoso."
+        ],
+        "image": null
+    },
+    {
+        "id": "Salsa_boloñesa",
+        "name": "Salsa boloñesa",
+        "category": "Salsas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "700 g",
+        "ingredients": [
+            "- 30 g de apio en trozos",
+            "- 70 g de zanahoria en trozos",
+            "- 100 g de cebolla en cuartos",
+            "- 1 rama de albahaca fresca (opcional)",
+            "- 50 g de aceite de oliva virgen extra",
+            "- 400 g de carne picada mixta",
+            "- 70 g de vino tinto",
+            "- 1 cucharada de tomate concentrado (opcional)",
+            "- 400 g de tomate triturado (natural o en conserva)",
+            "- 1 hoja de laurel",
+            "- 1 cdta de sal",
+            "- 1 pellizco de pimienta",
+            "- 1 pellizco de nuez moscada"
+        ],
+        "instructions": [
+            "1. Ponga en el vaso el apio, la zanahoria, la cebolla y la albahaca. Triture 5 seg / vel 7. Baje los restos con la espátula.",
+            "2. Añada el aceite y programe 5 min / 100°C / vel 1.",
+            "3. Incorpore la carne y programe 10 min / Varoma / giro izq / vel cuchara. Cuando falten 2 min, vierta el vino por el bocal.",
+            "4. Agregue el tomate concentrado, el tomate triturado, el laurel y las especias. Programe 30 min / Varoma / giro izq / vel cuchara."
+        ],
+        "image": "assets/images/Salsa_boloñesa.jpg"
+    },
+    {
+        "id": "Secreto_de_cerdo_al_horno_y_patatas_aplastadas",
+        "name": "Secreto de cerdo al horno y patatas aplastadas",
+        "category": "Carnes",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 600 g (2 filetes) de secreto de cerdo (u otra parte del cerdo)",
+            "- 1 diente de ajo",
+            "- 1 y 1/2 cdas de mostaza dulce",
+            "- 1 cda de miel",
+            "- 1/2 cdta de tomillo seco",
+            "- 3 cdas de aceite de oliva virgen extra",
+            "- 2 cdas de salsa de soja",
+            "- 100 ml de cerveza",
+            "- Pimienta negra recién molida",
+            "- Sal",
+            "- Patatas (cantidad al gusto, para acompañar)"
+        ],
+        "instructions": [
+            "1. Preparar el marinado en una bandeja o bol grande: machacar el ajo, añadir la mostaza, miel, tomillo, aceite y salsa de soja. Batir bien.",
+            "2. Añadir pimienta al gusto y la cerveza. Mezclar hasta integrar.",
+            "3. Colocar la carne en el marinado y cubrir bien por los dos lados. Tapar con film y dejar reposar en la nevera mínimo 1 hora.",
+            "4. Precalentar el horno a 180 ºC con calor arriba y abajo (o 200 ºC si no tiene aire).",
+            "5. Hornear la carne en su bandeja con el marinado durante 20 minutos.",
+            "6. Retirar la bandeja, dar la vuelta a la carne y hornear otros 20 minutos a la misma temperatura.",
+            "7. Mientras, hervir las patatas con piel hasta que estén tiernas. Escurrir y aplastar ligeramente con un tenedor.",
+            "8. Servir el secreto acompañado de las patatas aplastadas."
+        ],
+        "image": null
+    },
+    {
+        "id": "Sopa_de_pescado_TM31_2",
+        "name": "Sopa de pescado (TM31)",
+        "category": "Sopas y cremas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 1,2 l agua",
+            "- Huesos de rape",
+            "- Cáscaras y cabezas de gambas",
+            "- 300 g mejillones",
+            "- 200 g almejas",
+            "- 1 zanahoria",
+            "- 1 puerro",
+            "- 40 g aceite de oliva",
+            "- 1 pimiento choricero (carne)",
+            "- 100 ml vino blanco",
+            "- 300 g rape en trozos",
+            "- 150 g gambas peladas",
+            "- Sal",
+            "- Perejil fresco (opcional)"
+        ],
+        "instructions": [
+            "1. Preparar el Fumet: Introduzca en el vaso el agua, los huesos de rape y las cáscaras/cabezas de las gambas. Coloque los mejillones y las almejas en el recipiente Varoma. Sitúe el Varoma en su posición y programe 18 min / Temp. Varoma / Vel 1.",
+            "2. Reservar: Cuele el fumet con colador fino y resérvelo. Retire la carne de los mejillones y almejas de sus conchas y resérvela también. Lave y seque el vaso.",
+            "3. Sofrito: Añada la zanahoria y el puerro, trocee 4 seg / Vel 5. Baje los restos. Incorpore el aceite y sofría 10 min / Temp. Varoma / Giro Izquierda / Vel Cuchara.",
+            "4. Reducir vino: Agregue la carne de pimiento choricero y el vino blanco. Programe 5 min / Temp. Varoma / Giro Izquierda / Vel Cuchara.",
+            "5. Cocer sopa: Vierta el fumet reservado y la sal. Programe 10 min / 100°C / Giro Izquierda / Vel Cuchara.",
+            "6. Añadir pescado: Cuando falten 4 min para terminar, añada los trozos de rape por el bocal.",
+            "7. Añadir marisco: Cuando falte 1 min, incorpore por el bocal las gambas peladas y la carne reservada de mejillones y almejas.",
+            "8. Servir: Deje reposar 1 min en el vaso y sirva espolvoreando perejil fresco."
+        ],
+        "image": null
+    },
+    {
+        "id": "Sopa_de_pescado_TM31",
+        "name": "Sopa de pescado (TM31)",
+        "category": "Sopas y cremas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 1,2 l agua",
+            "- Huesos de rape",
+            "- Cáscaras y cabezas de gambas",
+            "- 300 g mejillones",
+            "- 200 g almejas",
+            "- 1 zanahoria",
+            "- 1 puerro",
+            "- 40 g aceite de oliva",
+            "- 1 pimiento choricero (carne)",
+            "- 100 ml vino blanco",
+            "- 300 g rape en trozos",
+            "- 150 g gambas peladas",
+            "- Sal",
+            "- Perejil fresco (opcional)"
+        ],
+        "instructions": [
+            "1. Preparar el Fumet: Introduzca en el vaso el agua, los huesos de rape y las cáscaras/cabezas de las gambas. Coloque los mejillones y las almejas en el recipiente Varoma. Sitúe el Varoma en su posición y programe 18 min / Temp. Varoma / Vel 1.",
+            "2. Reservar: Cuele el fumet con colador fino y resérvelo. Retire la carne de los mejillones y almejas de sus conchas y resérvela también. Lave y seque el vaso.",
+            "3. Sofrito: Añada la zanahoria y el puerro, trocee 4 seg / Vel 5. Baje los restos. Incorpore el aceite y sofría 10 min / Temp. Varoma / Giro Izquierda / Vel Cuchara.",
+            "4. Reducir vino: Agregue la carne de pimiento choricero y el vino blanco. Programe 5 min / Temp. Varoma / Giro Izquierda / Vel Cuchara.",
+            "5. Cocer sopa: Vierta el fumet reservado y la sal. Programe 10 min / 100°C / Giro Izquierda / Vel Cuchara.",
+            "6. Añadir pescado: Cuando falten 4 min para terminar, añada los trozos de rape por el bocal.",
+            "7. Añadir marisco: Cuando falte 1 min, incorpore por el bocal las gambas peladas y la carne reservada de mejillones y almejas.",
+            "8. Servir: Deje reposar 1 min en el vaso y sirva espolvoreando perejil fresco."
+        ],
+        "image": null
+    },
+    {
+        "id": "Tacos_de_lechuga_y_ensaladilla_de_atún",
+        "name": "Tacos de lechuga y ensaladilla de atún",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "",
+        "ingredients": [
+            "- Cogollos de lechuga",
+            "- Atún",
+            "- Albahaca fresca",
+            "- Mostaza",
+            "- Cebolleta",
+            "- Manzana",
+            "- Pepinillos",
+            "- Mahonesa (ver nota para versión light)"
+        ],
+        "instructions": [
+            "1. Desmenuzar el atún.",
+            "2. Picar muy bien todos los ingredientes (albahaca, cebolleta, manzana, pepinillos).",
+            "3. Mezclar todo con la mostaza y la mahonesa.",
+            "4. Rellenar las hojas de los cogollos de lechuga con la mezcla."
+        ],
+        "image": "assets/images/Tacos_de_lechuga_y_ensaladilla_de_atún.jpg"
+    },
+    {
+        "id": "Tarta_de_chocolate_Blancanutri",
+        "name": "Tarta de chocolate (Blancanutri)",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "6",
+        "ingredients": [
+            "- 3 huevos",
+            "- 60 g mantequilla o ghee (o aceite de coco)",
+            "- 160 g chocolate 85% cacao",
+            "- Cacao puro o harina de algarroba (para decorar)"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 180°C.",
+            "2. Derrite el chocolate junto con la mantequilla (o ghee o aceite de coco).",
+            "3. Bate los huevos con varillas y añade poco a poco el chocolate derretido mientras sigues batiendo.",
+            "4. Forra un molde redondo o rectangular de 20-24 cm con papel de horno en la base. Vierte la mezcla en el molde.",
+            "5. Hornea durante 15 minutos vigilando que no se pase.",
+            "6. Espolvorea cacao puro o harina de algarroba por encima antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Tarta_de_Nesquik",
+        "name": "Tarta de Nesquik",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "8",
+        "ingredients": [
+            "- 80 g azúcar",
+            "- 2 huevos",
+            "- 150 g harina",
+            "- 1 sobre levadura",
+            "- 75 g mantequilla derretida",
+            "- 50 ml leche",
+            "- 4 cda Nesquik"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 180°C.",
+            "2. En un bol mezcla los huevos con el azúcar hasta blanquear.",
+            "3. Añade la harina, la levadura, la leche, el Nesquik y la mantequilla. Mezcla bien.",
+            "4. Vierte en un molde engrasado.",
+            "5. Hornea 30 min a 180°C hasta que al pinchar salga limpio."
+        ],
+        "image": "assets/images/Tarta_de_Nesquik.jpg"
+    },
+    {
+        "id": "Tarta_de_queso_de_la_Viña",
+        "name": "Tarta de queso de la Viña",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "8",
+        "ingredients": [
+            "- 570 g queso crema",
+            "- 230 g azúcar",
+            "- 4 huevos",
+            "- 1 cda harina",
+            "- 280 ml nata (mín 35% MG)"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 210°C.",
+            "2. Coloca en un bol el queso, el azúcar, los huevos, la harina y la nata a temperatura ambiente.",
+            "3. Bate hasta que quede una crema homogénea (Thermomix: 30 s, vel. 5).",
+            "4. Forra un molde alto con papel de horno y vierte la mezcla.",
+            "5. Hornea 40 min a 210°C. Debe quedar dorada por fuera y cremosa en el centro.",
+            "6. Apaga el horno, deja la puerta entreabierta y enfría dentro 4–5 h antes de desmoldar."
+        ],
+        "image": null
+    },
+    {
+        "id": "Tarta_de_queso_La_Viña_TM31_600_g_queso",
+        "name": "Tarta de queso La Viña (TM31, 600 g queso)",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "8",
+        "ingredients": [
+            "- 600 g de queso crema tipo Philadelphia (temperatura ambiente)",
+            "- 300 ml de nata líquida para montar (mín. 35% MG)",
+            "- 4 huevos tamaño L",
+            "- 180 g de azúcar (140 reales)",
+            "- 18 g de harina de trigo (tamizada)"
+        ],
+        "instructions": [
+            "1. Precaliente el horno a 210 °C (arriba y abajo, sin ventilador). Forre un molde desmontable de 18–20 cm con papel de horno, dejando sobresalir los bordes.",
+            "2. Ponga en el vaso el queso crema y el azúcar. Mezcle 30 segundos, velocidad 3, hasta obtener una crema homogénea (sin airear).",
+            "3. Añada los huevos uno a uno, mezclando 15 segundos, velocidad 3, tras cada incorporación. Baje los restos con la espátula si es necesario.",
+            "4. Incorpore la nata y mezcle 20 segundos, velocidad 3.",
+            "5. Añada la harina tamizada y mezcle 10 segundos, velocidad 2, solo hasta integrar.",
+            "6. Vierta la mezcla en el molde y dé unos golpes suaves para eliminar burbujas.",
+            "7. Hornear 33 min 210 °C y 5 min 230 °C , altura media, hasta que la superficie esté bien tostada y el centro aún tembloroso.",
+            "8. Deje enfriar completamente a temperatura ambiente y refrigere un mínimo de 4–6 horas antes de servir."
+        ],
+        "image": null
+    },
+    {
+        "id": "Tarta_de_queso_y_limón_sin_horno_Thermomix",
+        "name": "Tarta de queso y limón sin horno (Thermomix)",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "10",
+        "ingredients": [
+            "- 200 g galletas",
+            "- 80 g mantequilla derretida",
+            "- 50 g agua",
+            "- 1 sobre gelatina de limón",
+            "- 400 g queso crema",
+            "- 200 g nata",
+            "- 80 g azúcar",
+            "- 200 g mermelada",
+            "- 2 cdas zumo de limón",
+            "- 2 cdtas gelatina neutra",
+            "- 50 g agua"
+        ],
+        "instructions": [
+            "1. Tritura las galletas (Thermomix: 5 s, vel. 10). Añade la mantequilla y mezcla (5 s, vel. 5). Forra un molde y congela 15 min.",
+            "2. Calienta 50 g agua 5 min, 100°C, vel. 1. Disuelve la gelatina de limón. Añade el queso, la nata y el azúcar. Mezcla 20 s, vel. 5. Vierte sobre la base y enfría 2 h.",
+            "3. Calienta la mermelada con el zumo de limón, la gelatina neutra y 50 g de agua (3 min, 80°C, vel. 2). Deja templar y vierte sobre la tarta. Refrigera 1 h."
+        ],
+        "image": null
+    },
+    {
+        "id": "Tarta_de_zanahoria",
+        "name": "Tarta de zanahoria",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "8",
+        "ingredients": [
+            "- 300 g zanahoria rallada",
+            "- 250 g harina",
+            "- 200 g azúcar",
+            "- 3 huevos",
+            "- 100 ml aceite",
+            "- 1 cdta canela",
+            "- 1 pizca nuez moscada",
+            "- 1 pizca jengibre en polvo",
+            "- 1 pizca sal",
+            "- 1 sobre levadura"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 180°C.",
+            "2. Ralla la zanahoria y resérvala.",
+            "3. Mezcla en un bol la harina, el azúcar, la levadura, la sal y las especias.",
+            "4. Añade los huevos y el aceite. Mezcla bien.",
+            "5. Incorpora la zanahoria rallada y mezcla hasta que quede integrado.",
+            "6. Vierte en un molde engrasado y hornea 40–45 min a 180°C, hasta que al pinchar salga limpio."
+        ],
+        "image": null
+    },
+    {
+        "id": "Tartar_de_remolacha_con_ajo_blanco_y_pepinillos",
+        "name": "Tartar de remolacha con ajo blanco y pepinillos",
+        "category": "Aperitivos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "2",
+        "ingredients": [
+            "- 2 remolachas medianas, asadas y peladas, cortadas en brunoise fino",
+            "- 2 pepinillos encurtidos pequeños, picados finos",
+            "- 1/2 cebolla morada o chalota, picada muy fino",
+            "- 1 cdita de mostaza de Dijon",
+            "- Sal y pimienta negra recién molida al gusto",
+            "- 1 cda de AOVE (aceite de oliva virgen extra)",
+            "- Semillas de sésamo tostado para espolvorear",
+            "- Cilantro fresco para decorar",
+            "Para el ajo blanco:",
+            "- 50‑70 g de almendras crudas peladas (preferiblemente remojadas)",
+            "- 1 diente de ajo pequeño (sin germen)",
+            "- 1 trozo de pan blanco del día anterior (opcional, si añades textura)",
+            "- 100‑120 ml de agua fría",
+            "- 30‑40 ml de aceite de oliva suave",
+            "- 1‑2 cditas de vinagre de Jerez o vino blanco",
+            "- Sal al gusto"
+        ],
+        "instructions": [
+            "1. Preparar el ajo blanco: triturar almendras, ajo, pan si se usa. Con el triturado en marcha, añadir poco a poco el aceite y luego el agua hasta lograr una crema suave. Ajustar vinagre y sal. Reservar fría.",
+            "2. Cortar las remolachas asadas en brunoise fina. Enfriar.",
+            "3. Picar los pepinillos y la cebolla muy fino. Mezclar con la mostaza, AOVE, sal y pimienta.",
+            "4. Incorporar la remolacha al aliño y mezclar con cuidado para no deshacer los cubos.",
+            "5. Dejar reposar en frío unos 15‑20 minutos para que los sabores se integren.",
+            "6. Emplatar: extender una base de ajo blanco en el plato. Sobre esta base colocar el tartar de remolacha (en forma circular o semicírculo). Espolvorear semillas de sésamo, añadir unas gotas de AOVE, decorar con cilantro fresco."
+        ],
+        "image": "assets/images/Tartar_de_remolacha_con_ajo_blanco_y_pepinillos.jpg"
+    },
+    {
+        "id": "Tomate_relleno_de_burrata",
+        "name": "Tomate relleno de burrata",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "2",
+        "ingredients": [
+            "- 1 tomate rosa grande y maduro",
+            "- 1 burrata (125 g aprox.)",
+            "- 30 ml aceite de oliva virgen extra",
+            "- 1 buen manojo de cebollino",
+            "- Hojas de albahaca fresca (al gusto)",
+            "- 20 g pistachos pelados",
+            "- Sal gorda",
+            "- Pimienta negra"
+        ],
+        "instructions": [
+            "1. Haz 2–3 cortes superficiales en la piel del tomate. Escáldalo 1 minuto en agua hirviendo; pásalo a agua fría.",
+            "2. Pela el tomate, córtale la tapa y vacía con cuidado las semillas/pulpa.",
+            "3. Aliño: tritura el aceite con mucho cebollino y albahaca. Sala y pimienta al gusto.",
+            "4. Rellena: introduce la burrata dentro del tomate y colócalo boca abajo en el plato.",
+            "5. Termina con el aliño por encima, sal gorda y pistachos picados."
+        ],
+        "image": null
+    },
+    {
+        "id": "Tomates_rellenos_de_ventresca_con_muhammara",
+        "name": "Tomates rellenos de ventresca con muhammara",
+        "category": "Ensaladas",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4 personas",
+        "ingredients": [
+            "Para los tomates rellenos:",
+            "- 4 tomates medianos",
+            "- 300 g de ventresca de bonito en aceite",
+            "- 80 g de aceitunas negras sin hueso",
+            "- 80 g de pepinillos en vinagre",
+            "- 4 filetes de anchoa",
+            "- 50 g de piparras en vinagre",
+            "- 50 g de alcaparras",
+            "- 1/2 cebolleta roja",
+            "- 10 g de perejil fresco",
+            "- Zumo de 1/2 limón",
+            "- Aceite de oliva virgen extra",
+            "- Sal al gusto",
+            "Para la salsa muhammara:",
+            "- 2 pimientos rojos",
+            "- 1 diente de ajo",
+            "- 1 cucharada de miel",
+            "- 2 cucharadas de aceite de oliva",
+            "- 1 cucharadita de comino molido",
+            "- 2 cucharadas de pan rallado",
+            "- 1 cucharada de vinagre de sidra",
+            "- Zumo de 1/2 limón",
+            "- 1 cucharadita de pimentón picante",
+            "- 50 g de nueces peladas y tostadas",
+            "- Sal al gusto"
+        ],
+        "instructions": [
+            "Preparar la muhammara:",
+            "1. Asa los pimientos rojos en el horno a 200 °C hasta que la piel se dore y se desprenda (unos 25 min).",
+            "2. Pélalos, retira semillas y colócalos en el vaso de batidora junto con el ajo, miel, comino, pan rallado, vinagre, zumo de limón, pimentón, nueces, aceite de oliva y una pizca de sal.",
+            "3. Tritura hasta obtener una salsa cremosa y homogénea. Reserva en frío.",
+            "Preparar los tomates:",
+            "1. Lava los tomates y haz un corte superficial en cruz en la base. Escáldalos 20 s en agua hirviendo, pásalos a un bol con agua fría y pélalos fácilmente.",
+            "2. Corta una tapa en la parte superior, vacía con una cucharita y escurre boca abajo sobre papel absorbente.",
+            "3. Pica finamente las aceitunas, pepinillos, piparras, anchoas, alcaparras, cebolleta y perejil.",
+            "4. Desmenuza la ventresca y mézclala con el resto de ingredientes picados. Añade el zumo de limón, un chorrito de aceite y sal al gusto.",
+            "5. Rellena los tomates con esta mezcla y colócalos sobre un fondo de muhammara en el plato.",
+            "6. Decora con unas hojas de perejil o unas gotas de aceite de oliva virgen extra."
+        ],
+        "image": "assets/images/Tomates_rellenos_de_ventresca_con_muhammara.jpg"
+    },
+    {
+        "id": "Tortitas_de_manzana_y_avena_3_ingredientes",
+        "name": "Tortitas de manzana y avena (3 ingredientes)",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "8",
+        "ingredients": [
+            "- 2 manzanas",
+            "- 4 cdas copos de avena",
+            "- 2 huevos"
+        ],
+        "instructions": [
+            "1. Pela y trocea las manzanas. Cocina en microondas 3:30 min (600 W) hasta ablandar.",
+            "2. Tritura las manzanas con la avena y los huevos hasta obtener una mezcla homogénea.",
+            "3. Calienta una sartén antiadherente con un poco de aceite.",
+            "4. Cocina pequeñas porciones de masa 2–3 min por cada lado hasta dorar."
+        ],
+        "image": null
+    },
+    {
+        "id": "Tortitas_esponjosas",
+        "name": "Tortitas esponjosas",
+        "category": "Postres",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "12",
+        "ingredients": [
+            "- 150 ml leche",
+            "- 2 huevos",
+            "- 1 cdta sal",
+            "- 2 cdas azúcar",
+            "- 50 g mantequilla derretida",
+            "- 150 g harina",
+            "- 1 cdta levadura"
+        ],
+        "instructions": [
+            "1. Mezcla en un bol los huevos, la leche, el azúcar, la sal y la mantequilla.",
+            "2. Añade la harina con la levadura y remueve hasta que no haya grumos.",
+            "3. Calienta una sartén antiadherente engrasada.",
+            "4. Vierte pequeñas porciones de masa. Cuando aparezcan burbujas en la superficie, da la vuelta y cocina 1 min más.",
+            "5. Sirve calientes con fruta, miel o sirope."
+        ],
+        "image": null
+    },
+    {
+        "id": "Vasitos_de_Crema_de_Coliflor_y_Pulpo",
+        "name": "Vasitos de Crema de Coliflor y Pulpo",
+        "category": "Aperitivos",
+        "description": "\nUn entrante navideño resultón, cremoso y fácil de preparar. La coliflor aporta una textura sedosa que combina perfectamente con el pulpo.\n",
+        "prep_time": "10 min",
+        "cook_time": "20 min",
+        "servings": "6",
+        "ingredients": [
+            "- 1 coliflor mediana (cortada en ramilletes)",
+            "- 2 patas de pulpo ya cocidas",
+            "- 2 dientes de ajo",
+            "- 50g de mantequilla (una cantidad generosa)",
+            "- 1 cucharadita de pimentón (dulce o picante)",
+            "- 1/2 vaso de nata para cocinar",
+            "- Sal al gusto",
+            "- Aceite de oliva virgen extra",
+            "- Pimentón extra para decorar"
+        ],
+        "instructions": [
+            "1. Cortar la coliflor en ramilletes y cocer en agua hirviendo durante unos 15 minutos o hasta que esté muy tierna.",
+            "2. Mientras tanto, laminar los dientes de ajo.",
+            "3. En una sartén, derretir la mantequilla a fuego suave y cocinar los ajos un par de minutos sin que se quemen.",
+            "4. Retirar la sartén del fuego y añadir el pimentón. Remover bien para emulsionar con la mantequilla caliente.",
+            "5. Escurrir la coliflor y ponerla en un vaso de batidora. Añadir la mezcla de mantequilla, ajo y pimentón, junto con el medio vaso de nata.",
+            "6. Triturar muy bien hasta obtener una crema sedosa. Probar y corregir de sal.",
+            "7. En una sartén muy caliente con un chorrito de aceite de oliva, marcar las patas de pulpo (ya cocidas) vuelta y vuelta hasta que doren. Cortarlas en rodajas.",
+            "8. Para el montaje: Servir la crema en vasitos individuales, colocar encima unos trozos de pulpo, espolvorear un poco más de pimentón y terminar con un chorrito de aceite de oliva para dar brillo."
+        ],
+        "image": "assets/images/Vasitos_de_Crema_de_Coliflor_y_Pulpo.jpg"
+    },
+    {
+        "id": "Verduras_al_horno_con_atún_y_queso_rallado",
+        "name": "Verduras al horno con atún y queso rallado",
+        "category": "Pescados y mariscos, Verduras",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "2-3",
+        "ingredients": [
+            "- Verduras variadas (calabacín, pimientos, champiñones, espárragos, etc.)",
+            "- 1-2 latas de atún al natural",
+            "- Queso rallado al gusto",
+            "- Sal",
+            "- Pimienta negra",
+            "- Aceite de oliva virgen extra"
+        ],
+        "instructions": [
+            "1. Precalentar el horno a 200°C durante 10 minutos.",
+            "2. Lavar y cortar las verduras. Colocarlas en una bandeja de horno con papel vegetal.",
+            "3. Añadir sal, pimienta negra y un chorrito de aceite de oliva por encima.",
+            "4. Hornear 15 minutos a 200°C.",
+            "5. Pasado ese tiempo, sacar la bandeja, remover las verduras y añadir el atún desmenuzado y el queso rallado.",
+            "6. Volver a meter en el horno y hornear otros 20 minutos a 200°C."
+        ],
+        "image": null
+    },
+    {
+        "id": "Verduras_al_horno_con_huevos_boniato_calabacín_y_berenjena",
+        "name": "Verduras al horno con huevos, boniato, calabacín y berenjena",
+        "category": "Verduras",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 1 boniato",
+            "- 1 calabacín",
+            "- 1 berenjena",
+            "- 4 huevos",
+            "- 30 g aceite de oliva",
+            "- 1 cdta sal"
+        ],
+        "instructions": [
+            "1. Lava y corta las verduras en dados medianos.",
+            "2. Colócalas en una bandeja con aceite y sal.",
+            "3. Hornea 30–40 min a 180°C hasta que estén tiernas.",
+            "4. Añade los huevos encima y hornea 5 min más, hasta que cuajen."
+        ],
+        "image": null
+    },
+    {
+        "id": "Vieiras_al_horno",
+        "name": "Vieiras al horno",
+        "category": "Pescados y mariscos",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- Vieiras (cantidad al gusto, limpias)",
+            "- 2 cdas aceite de oliva",
+            "- 100 ml vino blanco",
+            "- Sal",
+            "- Pimentón",
+            "- Pimienta blanca",
+            "- 3 dientes de ajo",
+            "- 1 manojo de perejil fresco",
+            "- 1 cebolla",
+            "- Pan rallado (aprox. 100 g)"
+        ],
+        "instructions": [
+            "1. Preparar sofrito: Picar cebolla, ajo y perejil. Sofreír en poco aceite con sal, pimentón y pimienta blanca hasta que la cebolla esté blanda.",
+            "2. Preparar vieiras: Colocar las vieiras limpias en sus conchas o fuente de horno. Añadir una pizca de sal, 1 cucharadita de vino blanco y 1 cucharadita del sofrito por encima de cada una.",
+            "3. Tostar pan rallado: En sartén pequeña con un poco de aceite, dorar el pan rallado hasta que coja color.",
+            "4. Majado: Machacar en mortero 2–3 dientes de ajo con perejil fresco. Mezclar con el pan rallado tostado y unir bien.",
+            "5. Montaje: Repartir esta mezcla por encima de las vieiras.",
+            "6. Hornear: Introducir en el horno precalentado a 180 °C durante 20–30 minutos, hasta que la superficie esté dorada."
+        ],
+        "image": null
+    },
+    {
+        "id": "Wrap_Cottage",
+        "name": "Wrap Cottage",
+        "category": "Platos especiales / internacionales",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "2-3",
+        "ingredients": [
+            "- 250 g queso cottage",
+            "- 1 huevo",
+            "- 1 pizca sal",
+            "- Perejil picado"
+        ],
+        "instructions": [
+            "1. Precalienta el horno a 180°C.",
+            "2. Mezcla el queso cottage con el huevo, la sal y el perejil.",
+            "3. Extiende la masa muy fina sobre papel de horno.",
+            "4. Hornea 20–25 min hasta que cuaje.",
+            "5. Rellena al gusto (rúcula, aguacate, salmón, pavo…) y enrolla."
+        ],
+        "image": null
+    },
+    {
+        "id": "Wraps",
+        "name": "Wraps",
+        "category": "Platos especiales / internacionales",
+        "description": "",
+        "prep_time": "",
+        "cook_time": "",
+        "servings": "4",
+        "ingredients": [
+            "- 4 tortillas de trigo",
+            "- Relleno al gusto (pollo, verduras, atún…)"
+        ],
+        "instructions": [
+            "1. Calienta ligeramente las tortillas en sartén o microondas.",
+            "2. Coloca el relleno en el centro.",
+            "3. Dobla los bordes y enrolla.",
+            "4. Sirve tal cual o pasa por la plancha para sellar."
+        ],
+        "image": null
+    }
+]
